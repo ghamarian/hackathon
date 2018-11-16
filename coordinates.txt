@@ -1,0 +1,19 @@
+52.0725885,4.236486,12z
+52.0725885,4.236486,12z
+
+
+https://www.google.com/maps/place/Kijkduin,+The+Hague/@52.0725884,4.2363145,12z/data=!3m1!5s0x47c5b0c652c7735b:0x99e1fab37ea29730!4m78!1m72!4m71!1m6!1m2!1s0x47c5b09f40ee893f:0xce2c2402513774eb!2sScheveningen+Beach,+Strandweg,+L'Aia!2m2!1d4.2718634!2d52.109799!1m6!1m2!1s0x47c5b74d1c0dd2c7:0xccfe81afc891bc40!2sMadurodam,+George+Maduroplein,+L'Aia!2m2!1d4.2969304!2d52.0994757!1m6!1m2!1s0x47c5b0c6f81168c1:0xac197b34d9ab166a!2sGemeentemuseum+Den+Haag!2m2!1d4.2806546!2d52.0899131!1m6!1m2!1s0x47c5b1b2968d88a9:0x10dbbe847f21e49!2sKijkduin,+L'Aia!2m2!1d4.2212431!2d52.0665711!1m6!1m2!1s0x47c5b17cc264a269:0xb4e72c9e8a48be0e!2sDe+Uithof,+L'Aia!2m2!1d4.2470762!2d52.0339228!1m6!1m2!1s0x47c5b6d46c2f2c43:0x266d163594fb189d!2sHaagse+Markt,+Herman+Costerstraat,+L'Aia!2m2!1d4.2990916!2d52.0646494!1m6!1m2!1s0x47c5b7235573af11:0xb981504e502da55c!2sMauritshuis,+Plein,+L'Aia!2m2!1d4.3143013!2d52.0804205!1m6!1m2!1s0x47c5b65b90b45e5f:0x81be759ca0d0c682!2sFamiliepark+Drievliet!2m2!1d4.3498671!2d52.0550824!1m6!1m2!1s0x47c5b7745ccb30fd:0xee880ec498fd972e!2sHuis+ten+Bosch,+'s-Gravenhaagse+Bos,+L'Aia!2m2!1d4.3438167!2d52.0930492!1m6!1m2!1s0x47c5b9d17838d511:0xc655c58d51df72ef!2sMuseum+Voorlinden,+Buurtweg,+Wassenaar!2m2!1d4.3458786!2d52.1185417!3e0!3m4!1s0x47c5b1b2968d88a9:0x10dbbe847f21e49!8m2!3d52.0665711!4d4.2212431?hl=en
+
+
+"scheveningen"            52.1145     4.2790  
+"maduradam"               52.0995     4.2969  
+"gemeentemuseume"         52.0899     4.2807  
+"kijkduin"                52.0614     4.2218  
+"de uithof"               52.0382     4.2416  
+"haagsemarkt"             52.0646     4.2991  
+"mauritshuis"             52.0804     4.3143  
+"familiepark drievliet"   52.0551     4.3499  
+"huistenbosch"            33.0863     129.7872
+"Museum Voorlinden   "    52.1185     4.3459
+
+
