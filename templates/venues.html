@@ -6,6 +6,7 @@
     <link rel="stylesheet" href="{{ url_for('.static', filename='starter-template.css') }}">
         <link href='https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Material+Icons' rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/vuetify@1.2.1/dist/vuetify.min.css" rel="stylesheet">
+        {{ sndmap.js }}
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui">
 
 </head>
@@ -106,11 +107,16 @@
             </v-app>
         </div>
 
+       <div id="map">
+            {{ sndmap.html }}
+        </div>
+
+
     </div>
 
-    <form action="/show_map" method="post">
-        <button id="submit" class="hidden"></button>
-    </form>
+{#    <form action="/show_map" method="post">#}
+{#        <button id="submit" class="hidden"></button>#}
+{#    </form>#}
 
 </main><!-- /.container -->
 
@@ -178,7 +184,10 @@
         this.progress_likes = this.progress_likes + steps;
         if (this.progress_likes >= 100) {
             console.log('yoel i am stressed out');
-           $('form').submit();
+           {#$('form').submit();#}
+
+           $('#app').hide();
+            $('#map').show();
         }
 
       }

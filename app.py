@@ -218,13 +218,12 @@ def venues():
 
 @app.route("/")
 def index():
-    # mymap = Map(
-    #     identifier="view-side",
-    #     lat=37.4419,
-    #     lng=-122.1419,
-    #     markers=[(37.4419, -122.1419)]
-    # )
-    return render_template('venues.html', destinations=destinations)
+    startingtime = '2018-11-17T10:20:00'
+    places_to_visit = ['mauritshuis', 'kijkduin', 'maduradam']
+    time, loc_list, _ = routing.get_best_solution(startingtime, places_to_visit)
+
+    sndmap = multiple_routes(loc_list)
+    return render_template('venues.html', destinations=destinations, sndmap=sndmap)
 
 
 # @app.route('/venues', methods=['GET', 'POST'])
