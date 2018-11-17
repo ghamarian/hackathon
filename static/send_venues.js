@@ -1,33 +1,10 @@
 $(document).ready(function () {
     var venues = [];
 
-    // send_venues = function () {
-    //     $.ajax({
-    //         url: "/venues",
-    //         type: 'POST',
-    //         dataType: 'json',
-    //         contentType: 'application/json;charset=UTF-8',
-    //         accepts: {
-    //             json: 'application/json',
-    //         },
-    //         data: JSON.stringify({
-    //             'venues': venues
-    //         }),
-    //         success: function (data) {
-    //             console.log(data);
-    //         }
-    //     })
-    // };
-    //
-
-
-    $('#carouselExampleControls').on('slide.bs.carousel', function (e) {
-        // console.log(e.direction);     // The direction in which the carousel is sliding (either "left" or "right").
-        // console.log(e.relatedTarget); // The DOM element that is being slid into place as the active item.
-        console.log(e.from);          // The index of the current item.
-        venues.push(e.from);
-        // console.log(e.to);            // The index of the next item.
-    });
+    add_venue = function () {
+        var currentIndex = $('div.active').index();
+        venues.push(currentIndex);
+    };
 
     $('form').submit(function () {
         let cat_input = $("<input>")
