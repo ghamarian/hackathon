@@ -200,8 +200,8 @@ def multiple_routes(loc_list):
         lng=lng,
         markers=destinations,
         polylines=[poly_coords],
-        zoom=12,
-        style="height:800px;width:800px;margin:0;",
+        zoom=11,
+        style="height:650px;width:650px;margin:0;",
 
     )
     return sndmap
@@ -223,7 +223,7 @@ def index():
     time, loc_list, _ = routing.get_best_solution(startingtime, places_to_visit)
 
     sndmap = multiple_routes(loc_list)
-    return render_template('venues.html', destinations=destinations, sndmap=sndmap)
+    return render_template('venues.html', destinations=destinations, sndmap=sndmap, loc_list=loc_list)
 
 
 # @app.route('/venues', methods=['GET', 'POST'])

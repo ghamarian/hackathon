@@ -107,9 +107,26 @@
             </v-app>
         </div>
 
-       <div id="map">
-            {{ sndmap.html }}
+
+
+        <div class="row">
+
+            <div class="col-md-8">
+                {{ sndmap.html }}
+            </div>
+            <div class="col-md-4">
+                {% for loc in loc_list %}
+                    <div class="card">
+                        <div >{{ loc.from }}</div>
+                        <div >{{ loc.to }}</div>
+                        <div >{{ loc.time }}</div>
+                    </div>
+                {% endfor %}
+
+            </div>
+
         </div>
+
 
 
     </div>
