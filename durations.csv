@@ -1,0 +1,1860 @@
+Date,Origin,Destination,Duration
+2018-11-17T10:00:00,centraal,maduradam,1380
+2018-11-17T10:00:00,centraal,gemeentemuseume,1500
+2018-11-17T10:00:00,centraal,kijkduin,2700
+2018-11-17T10:00:00,centraal,de uithof,2280
+2018-11-17T10:00:00,centraal,haagsemarkt,1500
+2018-11-17T10:00:00,centraal,mauritshuis,900
+2018-11-17T10:00:00,centraal,familiepark drievliet,2160
+2018-11-17T10:00:00,centraal,huistenbosch,660
+2018-11-17T10:00:00,centraal,Museum Voorlinden,-1
+2018-11-17T10:00:00,maduradam,centraal,1140
+2018-11-17T10:00:00,maduradam,gemeentemuseume,3000
+2018-11-17T10:00:00,maduradam,kijkduin,3120
+2018-11-17T10:00:00,maduradam,de uithof,3300
+2018-11-17T10:00:00,maduradam,haagsemarkt,2400
+2018-11-17T10:00:00,maduradam,mauritshuis,1320
+2018-11-17T10:00:00,maduradam,familiepark drievliet,3180
+2018-11-17T10:00:00,maduradam,huistenbosch,2040
+2018-11-17T10:00:00,maduradam,Museum Voorlinden,-1
+2018-11-17T10:00:00,gemeentemuseume,centraal,1560
+2018-11-17T10:00:00,gemeentemuseume,maduradam,2580
+2018-11-17T10:00:00,gemeentemuseume,kijkduin,1800
+2018-11-17T10:00:00,gemeentemuseume,de uithof,3600
+2018-11-17T10:00:00,gemeentemuseume,haagsemarkt,2580
+2018-11-17T10:00:00,gemeentemuseume,mauritshuis,1440
+2018-11-17T10:00:00,gemeentemuseume,familiepark drievliet,3300
+2018-11-17T10:00:00,gemeentemuseume,huistenbosch,1740
+2018-11-17T10:00:00,gemeentemuseume,Museum Voorlinden,-1
+2018-11-17T10:00:00,kijkduin,centraal,2520
+2018-11-17T10:00:00,kijkduin,maduradam,3120
+2018-11-17T10:00:00,kijkduin,gemeentemuseume,1980
+2018-11-17T10:00:00,kijkduin,de uithof,3000
+2018-11-17T10:00:00,kijkduin,haagsemarkt,3000
+2018-11-17T10:00:00,kijkduin,mauritshuis,2640
+2018-11-17T10:00:00,kijkduin,familiepark drievliet,3900
+2018-11-17T10:00:00,kijkduin,huistenbosch,2820
+2018-11-17T10:00:00,kijkduin,Museum Voorlinden,-1
+2018-11-17T10:00:00,de uithof,centraal,2280
+2018-11-17T10:00:00,de uithof,maduradam,3180
+2018-11-17T10:00:00,de uithof,gemeentemuseume,3720
+2018-11-17T10:00:00,de uithof,kijkduin,2220
+2018-11-17T10:00:00,de uithof,haagsemarkt,2040
+2018-11-17T10:00:00,de uithof,mauritshuis,2400
+2018-11-17T10:00:00,de uithof,familiepark drievliet,4020
+2018-11-17T10:00:00,de uithof,huistenbosch,2700
+2018-11-17T10:00:00,de uithof,Museum Voorlinden,-1
+2018-11-17T10:00:00,haagsemarkt,centraal,1200
+2018-11-17T10:00:00,haagsemarkt,maduradam,1860
+2018-11-17T10:00:00,haagsemarkt,gemeentemuseume,2580
+2018-11-17T10:00:00,haagsemarkt,kijkduin,2100
+2018-11-17T10:00:00,haagsemarkt,de uithof,2220
+2018-11-17T10:00:00,haagsemarkt,mauritshuis,1320
+2018-11-17T10:00:00,haagsemarkt,familiepark drievliet,2700
+2018-11-17T10:00:00,haagsemarkt,huistenbosch,1380
+2018-11-17T10:00:00,haagsemarkt,Museum Voorlinden,-1
+2018-11-17T10:00:00,mauritshuis,centraal,840
+2018-11-17T10:00:00,mauritshuis,maduradam,1140
+2018-11-17T10:00:00,mauritshuis,gemeentemuseume,1440
+2018-11-17T10:00:00,mauritshuis,kijkduin,2520
+2018-11-17T10:00:00,mauritshuis,de uithof,2400
+2018-11-17T10:00:00,mauritshuis,haagsemarkt,1320
+2018-11-17T10:00:00,mauritshuis,familiepark drievliet,2100
+2018-11-17T10:00:00,mauritshuis,huistenbosch,1140
+2018-11-17T10:00:00,mauritshuis,Museum Voorlinden,-1
+2018-11-17T10:00:00,familiepark drievliet,centraal,2340
+2018-11-17T10:00:00,familiepark drievliet,maduradam,3180
+2018-11-17T10:00:00,familiepark drievliet,gemeentemuseume,3840
+2018-11-17T10:00:00,familiepark drievliet,kijkduin,3840
+2018-11-17T10:00:00,familiepark drievliet,de uithof,3900
+2018-11-17T10:00:00,familiepark drievliet,haagsemarkt,3060
+2018-11-17T10:00:00,familiepark drievliet,mauritshuis,2160
+2018-11-17T10:00:00,familiepark drievliet,huistenbosch,2880
+2018-11-17T10:00:00,familiepark drievliet,Museum Voorlinden,-1
+2018-11-17T10:00:00,huistenbosch,centraal,600
+2018-11-17T10:00:00,huistenbosch,maduradam,1740
+2018-11-17T10:00:00,huistenbosch,gemeentemuseume,1800
+2018-11-17T10:00:00,huistenbosch,kijkduin,2760
+2018-11-17T10:00:00,huistenbosch,de uithof,2400
+2018-11-17T10:00:00,huistenbosch,haagsemarkt,1320
+2018-11-17T10:00:00,huistenbosch,mauritshuis,1200
+2018-11-17T10:00:00,huistenbosch,familiepark drievliet,2460
+2018-11-17T10:00:00,huistenbosch,Museum Voorlinden,-1
+2018-11-17T10:00:00,Museum Voorlinden,centraal,-1
+2018-11-17T10:00:00,Museum Voorlinden,maduradam,-1
+2018-11-17T10:00:00,Museum Voorlinden,gemeentemuseume,-1
+2018-11-17T10:00:00,Museum Voorlinden,kijkduin,-1
+2018-11-17T10:00:00,Museum Voorlinden,de uithof,-1
+2018-11-17T10:00:00,Museum Voorlinden,haagsemarkt,-1
+2018-11-17T10:00:00,Museum Voorlinden,mauritshuis,-1
+2018-11-17T10:00:00,Museum Voorlinden,familiepark drievliet,-1
+2018-11-17T10:00:00,Museum Voorlinden,huistenbosch,-1
+2018-11-17T10:30:00,centraal,maduradam,1380
+2018-11-17T10:30:00,centraal,gemeentemuseume,1500
+2018-11-17T10:30:00,centraal,kijkduin,2700
+2018-11-17T10:30:00,centraal,de uithof,2280
+2018-11-17T10:30:00,centraal,haagsemarkt,1500
+2018-11-17T10:30:00,centraal,mauritshuis,900
+2018-11-17T10:30:00,centraal,familiepark drievliet,2160
+2018-11-17T10:30:00,centraal,huistenbosch,720
+2018-11-17T10:30:00,centraal,Museum Voorlinden,-1
+2018-11-17T10:30:00,maduradam,centraal,1140
+2018-11-17T10:30:00,maduradam,gemeentemuseume,3000
+2018-11-17T10:30:00,maduradam,kijkduin,3180
+2018-11-17T10:30:00,maduradam,de uithof,3360
+2018-11-17T10:30:00,maduradam,haagsemarkt,2400
+2018-11-17T10:30:00,maduradam,mauritshuis,1320
+2018-11-17T10:30:00,maduradam,familiepark drievliet,3600
+2018-11-17T10:30:00,maduradam,huistenbosch,2040
+2018-11-17T10:30:00,maduradam,Museum Voorlinden,-1
+2018-11-17T10:30:00,gemeentemuseume,centraal,1560
+2018-11-17T10:30:00,gemeentemuseume,maduradam,2580
+2018-11-17T10:30:00,gemeentemuseume,kijkduin,1800
+2018-11-17T10:30:00,gemeentemuseume,de uithof,3600
+2018-11-17T10:30:00,gemeentemuseume,haagsemarkt,2640
+2018-11-17T10:30:00,gemeentemuseume,mauritshuis,1440
+2018-11-17T10:30:00,gemeentemuseume,familiepark drievliet,3360
+2018-11-17T10:30:00,gemeentemuseume,huistenbosch,1800
+2018-11-17T10:30:00,gemeentemuseume,Museum Voorlinden,-1
+2018-11-17T10:30:00,kijkduin,centraal,2520
+2018-11-17T10:30:00,kijkduin,maduradam,3120
+2018-11-17T10:30:00,kijkduin,gemeentemuseume,1980
+2018-11-17T10:30:00,kijkduin,de uithof,3120
+2018-11-17T10:30:00,kijkduin,haagsemarkt,3000
+2018-11-17T10:30:00,kijkduin,mauritshuis,2640
+2018-11-17T10:30:00,kijkduin,familiepark drievliet,3900
+2018-11-17T10:30:00,kijkduin,huistenbosch,2820
+2018-11-17T10:30:00,kijkduin,Museum Voorlinden,-1
+2018-11-17T10:30:00,de uithof,centraal,2280
+2018-11-17T10:30:00,de uithof,maduradam,3180
+2018-11-17T10:30:00,de uithof,gemeentemuseume,3720
+2018-11-17T10:30:00,de uithof,kijkduin,2220
+2018-11-17T10:30:00,de uithof,haagsemarkt,2040
+2018-11-17T10:30:00,de uithof,mauritshuis,2400
+2018-11-17T10:30:00,de uithof,familiepark drievliet,4020
+2018-11-17T10:30:00,de uithof,huistenbosch,2700
+2018-11-17T10:30:00,de uithof,Museum Voorlinden,-1
+2018-11-17T10:30:00,haagsemarkt,centraal,1200
+2018-11-17T10:30:00,haagsemarkt,maduradam,2220
+2018-11-17T10:30:00,haagsemarkt,gemeentemuseume,2880
+2018-11-17T10:30:00,haagsemarkt,kijkduin,2100
+2018-11-17T10:30:00,haagsemarkt,de uithof,2040
+2018-11-17T10:30:00,haagsemarkt,mauritshuis,1620
+2018-11-17T10:30:00,haagsemarkt,familiepark drievliet,2580
+2018-11-17T10:30:00,haagsemarkt,huistenbosch,1260
+2018-11-17T10:30:00,haagsemarkt,Museum Voorlinden,-1
+2018-11-17T10:30:00,mauritshuis,centraal,960
+2018-11-17T10:30:00,mauritshuis,maduradam,1140
+2018-11-17T10:30:00,mauritshuis,gemeentemuseume,1440
+2018-11-17T10:30:00,mauritshuis,kijkduin,2520
+2018-11-17T10:30:00,mauritshuis,de uithof,2400
+2018-11-17T10:30:00,mauritshuis,haagsemarkt,1320
+2018-11-17T10:30:00,mauritshuis,familiepark drievliet,2100
+2018-11-17T10:30:00,mauritshuis,huistenbosch,1020
+2018-11-17T10:30:00,mauritshuis,Museum Voorlinden,-1
+2018-11-17T10:30:00,familiepark drievliet,centraal,2340
+2018-11-17T10:30:00,familiepark drievliet,maduradam,3180
+2018-11-17T10:30:00,familiepark drievliet,gemeentemuseume,3900
+2018-11-17T10:30:00,familiepark drievliet,kijkduin,3840
+2018-11-17T10:30:00,familiepark drievliet,de uithof,3900
+2018-11-17T10:30:00,familiepark drievliet,haagsemarkt,3060
+2018-11-17T10:30:00,familiepark drievliet,mauritshuis,2160
+2018-11-17T10:30:00,familiepark drievliet,huistenbosch,2880
+2018-11-17T10:30:00,familiepark drievliet,Museum Voorlinden,-1
+2018-11-17T10:30:00,huistenbosch,centraal,660
+2018-11-17T10:30:00,huistenbosch,maduradam,1740
+2018-11-17T10:30:00,huistenbosch,gemeentemuseume,1860
+2018-11-17T10:30:00,huistenbosch,kijkduin,2820
+2018-11-17T10:30:00,huistenbosch,de uithof,2460
+2018-11-17T10:30:00,huistenbosch,haagsemarkt,1320
+2018-11-17T10:30:00,huistenbosch,mauritshuis,1260
+2018-11-17T10:30:00,huistenbosch,familiepark drievliet,2460
+2018-11-17T10:30:00,huistenbosch,Museum Voorlinden,-1
+2018-11-17T10:30:00,Museum Voorlinden,centraal,-1
+2018-11-17T10:30:00,Museum Voorlinden,maduradam,-1
+2018-11-17T10:30:00,Museum Voorlinden,gemeentemuseume,-1
+2018-11-17T10:30:00,Museum Voorlinden,kijkduin,-1
+2018-11-17T10:30:00,Museum Voorlinden,de uithof,-1
+2018-11-17T10:30:00,Museum Voorlinden,haagsemarkt,-1
+2018-11-17T10:30:00,Museum Voorlinden,mauritshuis,-1
+2018-11-17T10:30:00,Museum Voorlinden,familiepark drievliet,-1
+2018-11-17T10:30:00,Museum Voorlinden,huistenbosch,-1
+2018-11-17T11:00:00,centraal,maduradam,1380
+2018-11-17T11:00:00,centraal,gemeentemuseume,1500
+2018-11-17T11:00:00,centraal,kijkduin,2700
+2018-11-17T11:00:00,centraal,de uithof,2280
+2018-11-17T11:00:00,centraal,haagsemarkt,1500
+2018-11-17T11:00:00,centraal,mauritshuis,900
+2018-11-17T11:00:00,centraal,familiepark drievliet,2160
+2018-11-17T11:00:00,centraal,huistenbosch,720
+2018-11-17T11:00:00,centraal,Museum Voorlinden,-1
+2018-11-17T11:00:00,maduradam,centraal,1440
+2018-11-17T11:00:00,maduradam,gemeentemuseume,2760
+2018-11-17T11:00:00,maduradam,kijkduin,3180
+2018-11-17T11:00:00,maduradam,de uithof,3420
+2018-11-17T11:00:00,maduradam,haagsemarkt,2280
+2018-11-17T11:00:00,maduradam,mauritshuis,1320
+2018-11-17T11:00:00,maduradam,familiepark drievliet,3240
+2018-11-17T11:00:00,maduradam,huistenbosch,2040
+2018-11-17T11:00:00,maduradam,Museum Voorlinden,-1
+2018-11-17T11:00:00,gemeentemuseume,centraal,1560
+2018-11-17T11:00:00,gemeentemuseume,maduradam,2580
+2018-11-17T11:00:00,gemeentemuseume,kijkduin,1800
+2018-11-17T11:00:00,gemeentemuseume,de uithof,3660
+2018-11-17T11:00:00,gemeentemuseume,haagsemarkt,2580
+2018-11-17T11:00:00,gemeentemuseume,mauritshuis,1440
+2018-11-17T11:00:00,gemeentemuseume,familiepark drievliet,3300
+2018-11-17T11:00:00,gemeentemuseume,huistenbosch,1800
+2018-11-17T11:00:00,gemeentemuseume,Museum Voorlinden,-1
+2018-11-17T11:00:00,kijkduin,centraal,2520
+2018-11-17T11:00:00,kijkduin,maduradam,3480
+2018-11-17T11:00:00,kijkduin,gemeentemuseume,2100
+2018-11-17T11:00:00,kijkduin,de uithof,3120
+2018-11-17T11:00:00,kijkduin,haagsemarkt,3060
+2018-11-17T11:00:00,kijkduin,mauritshuis,2640
+2018-11-17T11:00:00,kijkduin,familiepark drievliet,4140
+2018-11-17T11:00:00,kijkduin,huistenbosch,2820
+2018-11-17T11:00:00,kijkduin,Museum Voorlinden,-1
+2018-11-17T11:00:00,de uithof,centraal,2280
+2018-11-17T11:00:00,de uithof,maduradam,2940
+2018-11-17T11:00:00,de uithof,gemeentemuseume,3660
+2018-11-17T11:00:00,de uithof,kijkduin,2580
+2018-11-17T11:00:00,de uithof,haagsemarkt,2340
+2018-11-17T11:00:00,de uithof,mauritshuis,2400
+2018-11-17T11:00:00,de uithof,familiepark drievliet,4020
+2018-11-17T11:00:00,de uithof,huistenbosch,2700
+2018-11-17T11:00:00,de uithof,Museum Voorlinden,-1
+2018-11-17T11:00:00,haagsemarkt,centraal,1560
+2018-11-17T11:00:00,haagsemarkt,maduradam,2280
+2018-11-17T11:00:00,haagsemarkt,gemeentemuseume,2940
+2018-11-17T11:00:00,haagsemarkt,kijkduin,2460
+2018-11-17T11:00:00,haagsemarkt,de uithof,2220
+2018-11-17T11:00:00,haagsemarkt,mauritshuis,1680
+2018-11-17T11:00:00,haagsemarkt,familiepark drievliet,2580
+2018-11-17T11:00:00,haagsemarkt,huistenbosch,1500
+2018-11-17T11:00:00,haagsemarkt,Museum Voorlinden,-1
+2018-11-17T11:00:00,mauritshuis,centraal,960
+2018-11-17T11:00:00,mauritshuis,maduradam,1140
+2018-11-17T11:00:00,mauritshuis,gemeentemuseume,1440
+2018-11-17T11:00:00,mauritshuis,kijkduin,2520
+2018-11-17T11:00:00,mauritshuis,de uithof,2400
+2018-11-17T11:00:00,mauritshuis,haagsemarkt,1320
+2018-11-17T11:00:00,mauritshuis,familiepark drievliet,2100
+2018-11-17T11:00:00,mauritshuis,huistenbosch,1020
+2018-11-17T11:00:00,mauritshuis,Museum Voorlinden,-1
+2018-11-17T11:00:00,familiepark drievliet,centraal,2340
+2018-11-17T11:00:00,familiepark drievliet,maduradam,3480
+2018-11-17T11:00:00,familiepark drievliet,gemeentemuseume,3660
+2018-11-17T11:00:00,familiepark drievliet,kijkduin,3840
+2018-11-17T11:00:00,familiepark drievliet,de uithof,3960
+2018-11-17T11:00:00,familiepark drievliet,haagsemarkt,3060
+2018-11-17T11:00:00,familiepark drievliet,mauritshuis,2160
+2018-11-17T11:00:00,familiepark drievliet,huistenbosch,2460
+2018-11-17T11:00:00,familiepark drievliet,Museum Voorlinden,-1
+2018-11-17T11:00:00,huistenbosch,centraal,660
+2018-11-17T11:00:00,huistenbosch,maduradam,1800
+2018-11-17T11:00:00,huistenbosch,gemeentemuseume,1860
+2018-11-17T11:00:00,huistenbosch,kijkduin,2820
+2018-11-17T11:00:00,huistenbosch,de uithof,2460
+2018-11-17T11:00:00,huistenbosch,haagsemarkt,1380
+2018-11-17T11:00:00,huistenbosch,mauritshuis,1260
+2018-11-17T11:00:00,huistenbosch,familiepark drievliet,2460
+2018-11-17T11:00:00,huistenbosch,Museum Voorlinden,-1
+2018-11-17T11:00:00,Museum Voorlinden,centraal,-1
+2018-11-17T11:00:00,Museum Voorlinden,maduradam,-1
+2018-11-17T11:00:00,Museum Voorlinden,gemeentemuseume,-1
+2018-11-17T11:00:00,Museum Voorlinden,kijkduin,-1
+2018-11-17T11:00:00,Museum Voorlinden,de uithof,-1
+2018-11-17T11:00:00,Museum Voorlinden,haagsemarkt,-1
+2018-11-17T11:00:00,Museum Voorlinden,mauritshuis,-1
+2018-11-17T11:00:00,Museum Voorlinden,familiepark drievliet,-1
+2018-11-17T11:00:00,Museum Voorlinden,huistenbosch,-1
+2018-11-17T11:30:00,centraal,maduradam,1080
+2018-11-17T11:30:00,centraal,gemeentemuseume,1920
+2018-11-17T11:30:00,centraal,kijkduin,2760
+2018-11-17T11:30:00,centraal,de uithof,2340
+2018-11-17T11:30:00,centraal,haagsemarkt,1260
+2018-11-17T11:30:00,centraal,mauritshuis,840
+2018-11-17T11:30:00,centraal,familiepark drievliet,2160
+2018-11-17T11:30:00,centraal,huistenbosch,840
+2018-11-17T11:30:00,centraal,Museum Voorlinden,-1
+2018-11-17T11:30:00,maduradam,centraal,1200
+2018-11-17T11:30:00,maduradam,gemeentemuseume,2400
+2018-11-17T11:30:00,maduradam,kijkduin,3240
+2018-11-17T11:30:00,maduradam,de uithof,3420
+2018-11-17T11:30:00,maduradam,haagsemarkt,2280
+2018-11-17T11:30:00,maduradam,mauritshuis,1260
+2018-11-17T11:30:00,maduradam,familiepark drievliet,3240
+2018-11-17T11:30:00,maduradam,huistenbosch,1320
+2018-11-17T11:30:00,maduradam,Museum Voorlinden,-1
+2018-11-17T11:30:00,gemeentemuseume,centraal,1680
+2018-11-17T11:30:00,gemeentemuseume,maduradam,2580
+2018-11-17T11:30:00,gemeentemuseume,kijkduin,1980
+2018-11-17T11:30:00,gemeentemuseume,de uithof,3720
+2018-11-17T11:30:00,gemeentemuseume,haagsemarkt,2580
+2018-11-17T11:30:00,gemeentemuseume,mauritshuis,1560
+2018-11-17T11:30:00,gemeentemuseume,familiepark drievliet,3300
+2018-11-17T11:30:00,gemeentemuseume,huistenbosch,2040
+2018-11-17T11:30:00,gemeentemuseume,Museum Voorlinden,-1
+2018-11-17T11:30:00,kijkduin,centraal,2520
+2018-11-17T11:30:00,kijkduin,maduradam,3480
+2018-11-17T11:30:00,kijkduin,gemeentemuseume,2100
+2018-11-17T11:30:00,kijkduin,de uithof,4200
+2018-11-17T11:30:00,kijkduin,haagsemarkt,3060
+2018-11-17T11:30:00,kijkduin,mauritshuis,2640
+2018-11-17T11:30:00,kijkduin,familiepark drievliet,4140
+2018-11-17T11:30:00,kijkduin,huistenbosch,2820
+2018-11-17T11:30:00,kijkduin,Museum Voorlinden,-1
+2018-11-17T11:30:00,de uithof,centraal,2280
+2018-11-17T11:30:00,de uithof,maduradam,2940
+2018-11-17T11:30:00,de uithof,gemeentemuseume,3720
+2018-11-17T11:30:00,de uithof,kijkduin,2580
+2018-11-17T11:30:00,de uithof,haagsemarkt,2340
+2018-11-17T11:30:00,de uithof,mauritshuis,2400
+2018-11-17T11:30:00,de uithof,familiepark drievliet,4020
+2018-11-17T11:30:00,de uithof,huistenbosch,2700
+2018-11-17T11:30:00,de uithof,Museum Voorlinden,-1
+2018-11-17T11:30:00,haagsemarkt,centraal,1260
+2018-11-17T11:30:00,haagsemarkt,maduradam,2220
+2018-11-17T11:30:00,haagsemarkt,gemeentemuseume,3000
+2018-11-17T11:30:00,haagsemarkt,kijkduin,2580
+2018-11-17T11:30:00,haagsemarkt,de uithof,2220
+2018-11-17T11:30:00,haagsemarkt,mauritshuis,1320
+2018-11-17T11:30:00,haagsemarkt,familiepark drievliet,2520
+2018-11-17T11:30:00,haagsemarkt,huistenbosch,1260
+2018-11-17T11:30:00,haagsemarkt,Museum Voorlinden,-1
+2018-11-17T11:30:00,mauritshuis,centraal,840
+2018-11-17T11:30:00,mauritshuis,maduradam,1140
+2018-11-17T11:30:00,mauritshuis,gemeentemuseume,1440
+2018-11-17T11:30:00,mauritshuis,kijkduin,2580
+2018-11-17T11:30:00,mauritshuis,de uithof,2400
+2018-11-17T11:30:00,mauritshuis,haagsemarkt,1380
+2018-11-17T11:30:00,mauritshuis,familiepark drievliet,2160
+2018-11-17T11:30:00,mauritshuis,huistenbosch,1020
+2018-11-17T11:30:00,mauritshuis,Museum Voorlinden,-1
+2018-11-17T11:30:00,familiepark drievliet,centraal,2280
+2018-11-17T11:30:00,familiepark drievliet,maduradam,3240
+2018-11-17T11:30:00,familiepark drievliet,gemeentemuseume,3420
+2018-11-17T11:30:00,familiepark drievliet,kijkduin,4080
+2018-11-17T11:30:00,familiepark drievliet,de uithof,3900
+2018-11-17T11:30:00,familiepark drievliet,haagsemarkt,2760
+2018-11-17T11:30:00,familiepark drievliet,mauritshuis,2220
+2018-11-17T11:30:00,familiepark drievliet,huistenbosch,2520
+2018-11-17T11:30:00,familiepark drievliet,Museum Voorlinden,-1
+2018-11-17T11:30:00,huistenbosch,centraal,720
+2018-11-17T11:30:00,huistenbosch,maduradam,1200
+2018-11-17T11:30:00,huistenbosch,gemeentemuseume,2040
+2018-11-17T11:30:00,huistenbosch,kijkduin,3180
+2018-11-17T11:30:00,huistenbosch,de uithof,2520
+2018-11-17T11:30:00,huistenbosch,haagsemarkt,1380
+2018-11-17T11:30:00,huistenbosch,mauritshuis,1380
+2018-11-17T11:30:00,huistenbosch,familiepark drievliet,3180
+2018-11-17T11:30:00,huistenbosch,Museum Voorlinden,-1
+2018-11-17T11:30:00,Museum Voorlinden,centraal,-1
+2018-11-17T11:30:00,Museum Voorlinden,maduradam,-1
+2018-11-17T11:30:00,Museum Voorlinden,gemeentemuseume,-1
+2018-11-17T11:30:00,Museum Voorlinden,kijkduin,-1
+2018-11-17T11:30:00,Museum Voorlinden,de uithof,-1
+2018-11-17T11:30:00,Museum Voorlinden,haagsemarkt,-1
+2018-11-17T11:30:00,Museum Voorlinden,mauritshuis,-1
+2018-11-17T11:30:00,Museum Voorlinden,familiepark drievliet,-1
+2018-11-17T11:30:00,Museum Voorlinden,huistenbosch,-1
+2018-11-17T12:00:00,centraal,maduradam,1080
+2018-11-17T12:00:00,centraal,gemeentemuseume,1920
+2018-11-17T12:00:00,centraal,kijkduin,2760
+2018-11-17T12:00:00,centraal,de uithof,2340
+2018-11-17T12:00:00,centraal,haagsemarkt,1260
+2018-11-17T12:00:00,centraal,mauritshuis,720
+2018-11-17T12:00:00,centraal,familiepark drievliet,2160
+2018-11-17T12:00:00,centraal,huistenbosch,840
+2018-11-17T12:00:00,centraal,Museum Voorlinden,-1
+2018-11-17T12:00:00,maduradam,centraal,1200
+2018-11-17T12:00:00,maduradam,gemeentemuseume,2400
+2018-11-17T12:00:00,maduradam,kijkduin,3420
+2018-11-17T12:00:00,maduradam,de uithof,3600
+2018-11-17T12:00:00,maduradam,haagsemarkt,2040
+2018-11-17T12:00:00,maduradam,mauritshuis,1260
+2018-11-17T12:00:00,maduradam,familiepark drievliet,3420
+2018-11-17T12:00:00,maduradam,huistenbosch,1440
+2018-11-17T12:00:00,maduradam,Museum Voorlinden,-1
+2018-11-17T12:00:00,gemeentemuseume,centraal,1680
+2018-11-17T12:00:00,gemeentemuseume,maduradam,2580
+2018-11-17T12:00:00,gemeentemuseume,kijkduin,1980
+2018-11-17T12:00:00,gemeentemuseume,de uithof,3720
+2018-11-17T12:00:00,gemeentemuseume,haagsemarkt,2580
+2018-11-17T12:00:00,gemeentemuseume,mauritshuis,1560
+2018-11-17T12:00:00,gemeentemuseume,familiepark drievliet,3300
+2018-11-17T12:00:00,gemeentemuseume,huistenbosch,2040
+2018-11-17T12:00:00,gemeentemuseume,Museum Voorlinden,-1
+2018-11-17T12:00:00,kijkduin,centraal,2520
+2018-11-17T12:00:00,kijkduin,maduradam,3480
+2018-11-17T12:00:00,kijkduin,gemeentemuseume,2100
+2018-11-17T12:00:00,kijkduin,de uithof,3120
+2018-11-17T12:00:00,kijkduin,haagsemarkt,3060
+2018-11-17T12:00:00,kijkduin,mauritshuis,2640
+2018-11-17T12:00:00,kijkduin,familiepark drievliet,4140
+2018-11-17T12:00:00,kijkduin,huistenbosch,2820
+2018-11-17T12:00:00,kijkduin,Museum Voorlinden,-1
+2018-11-17T12:00:00,de uithof,centraal,2280
+2018-11-17T12:00:00,de uithof,maduradam,2940
+2018-11-17T12:00:00,de uithof,gemeentemuseume,3720
+2018-11-17T12:00:00,de uithof,kijkduin,2580
+2018-11-17T12:00:00,de uithof,haagsemarkt,2340
+2018-11-17T12:00:00,de uithof,mauritshuis,2400
+2018-11-17T12:00:00,de uithof,familiepark drievliet,4020
+2018-11-17T12:00:00,de uithof,huistenbosch,2700
+2018-11-17T12:00:00,de uithof,Museum Voorlinden,-1
+2018-11-17T12:00:00,haagsemarkt,centraal,1260
+2018-11-17T12:00:00,haagsemarkt,maduradam,2220
+2018-11-17T12:00:00,haagsemarkt,gemeentemuseume,3000
+2018-11-17T12:00:00,haagsemarkt,kijkduin,2580
+2018-11-17T12:00:00,haagsemarkt,de uithof,2220
+2018-11-17T12:00:00,haagsemarkt,mauritshuis,1380
+2018-11-17T12:00:00,haagsemarkt,familiepark drievliet,2520
+2018-11-17T12:00:00,haagsemarkt,huistenbosch,1260
+2018-11-17T12:00:00,haagsemarkt,Museum Voorlinden,-1
+2018-11-17T12:00:00,mauritshuis,centraal,960
+2018-11-17T12:00:00,mauritshuis,maduradam,1140
+2018-11-17T12:00:00,mauritshuis,gemeentemuseume,1440
+2018-11-17T12:00:00,mauritshuis,kijkduin,2580
+2018-11-17T12:00:00,mauritshuis,de uithof,2400
+2018-11-17T12:00:00,mauritshuis,haagsemarkt,1380
+2018-11-17T12:00:00,mauritshuis,familiepark drievliet,2160
+2018-11-17T12:00:00,mauritshuis,huistenbosch,960
+2018-11-17T12:00:00,mauritshuis,Museum Voorlinden,-1
+2018-11-17T12:00:00,familiepark drievliet,centraal,2340
+2018-11-17T12:00:00,familiepark drievliet,maduradam,3240
+2018-11-17T12:00:00,familiepark drievliet,gemeentemuseume,3420
+2018-11-17T12:00:00,familiepark drievliet,kijkduin,4080
+2018-11-17T12:00:00,familiepark drievliet,de uithof,3900
+2018-11-17T12:00:00,familiepark drievliet,haagsemarkt,2760
+2018-11-17T12:00:00,familiepark drievliet,mauritshuis,2160
+2018-11-17T12:00:00,familiepark drievliet,huistenbosch,2760
+2018-11-17T12:00:00,familiepark drievliet,Museum Voorlinden,-1
+2018-11-17T12:00:00,huistenbosch,centraal,720
+2018-11-17T12:00:00,huistenbosch,maduradam,1200
+2018-11-17T12:00:00,huistenbosch,gemeentemuseume,2040
+2018-11-17T12:00:00,huistenbosch,kijkduin,3180
+2018-11-17T12:00:00,huistenbosch,de uithof,2520
+2018-11-17T12:00:00,huistenbosch,haagsemarkt,1380
+2018-11-17T12:00:00,huistenbosch,mauritshuis,1380
+2018-11-17T12:00:00,huistenbosch,familiepark drievliet,2700
+2018-11-17T12:00:00,huistenbosch,Museum Voorlinden,-1
+2018-11-17T12:00:00,Museum Voorlinden,centraal,-1
+2018-11-17T12:00:00,Museum Voorlinden,maduradam,-1
+2018-11-17T12:00:00,Museum Voorlinden,gemeentemuseume,-1
+2018-11-17T12:00:00,Museum Voorlinden,kijkduin,-1
+2018-11-17T12:00:00,Museum Voorlinden,de uithof,-1
+2018-11-17T12:00:00,Museum Voorlinden,haagsemarkt,-1
+2018-11-17T12:00:00,Museum Voorlinden,mauritshuis,-1
+2018-11-17T12:00:00,Museum Voorlinden,familiepark drievliet,-1
+2018-11-17T12:00:00,Museum Voorlinden,huistenbosch,-1
+2018-11-17T12:30:00,centraal,maduradam,1080
+2018-11-17T12:30:00,centraal,gemeentemuseume,1920
+2018-11-17T12:30:00,centraal,kijkduin,2760
+2018-11-17T12:30:00,centraal,de uithof,2340
+2018-11-17T12:30:00,centraal,haagsemarkt,1260
+2018-11-17T12:30:00,centraal,mauritshuis,840
+2018-11-17T12:30:00,centraal,familiepark drievliet,2160
+2018-11-17T12:30:00,centraal,huistenbosch,840
+2018-11-17T12:30:00,centraal,Museum Voorlinden,-1
+2018-11-17T12:30:00,maduradam,centraal,1200
+2018-11-17T12:30:00,maduradam,gemeentemuseume,2460
+2018-11-17T12:30:00,maduradam,kijkduin,3420
+2018-11-17T12:30:00,maduradam,de uithof,3600
+2018-11-17T12:30:00,maduradam,haagsemarkt,2040
+2018-11-17T12:30:00,maduradam,mauritshuis,1260
+2018-11-17T12:30:00,maduradam,familiepark drievliet,3240
+2018-11-17T12:30:00,maduradam,huistenbosch,1440
+2018-11-17T12:30:00,maduradam,Museum Voorlinden,-1
+2018-11-17T12:30:00,gemeentemuseume,centraal,1680
+2018-11-17T12:30:00,gemeentemuseume,maduradam,2580
+2018-11-17T12:30:00,gemeentemuseume,kijkduin,1980
+2018-11-17T12:30:00,gemeentemuseume,de uithof,3660
+2018-11-17T12:30:00,gemeentemuseume,haagsemarkt,2520
+2018-11-17T12:30:00,gemeentemuseume,mauritshuis,1560
+2018-11-17T12:30:00,gemeentemuseume,familiepark drievliet,3300
+2018-11-17T12:30:00,gemeentemuseume,huistenbosch,1980
+2018-11-17T12:30:00,gemeentemuseume,Museum Voorlinden,-1
+2018-11-17T12:30:00,kijkduin,centraal,2520
+2018-11-17T12:30:00,kijkduin,maduradam,3480
+2018-11-17T12:30:00,kijkduin,gemeentemuseume,2100
+2018-11-17T12:30:00,kijkduin,de uithof,4200
+2018-11-17T12:30:00,kijkduin,haagsemarkt,3060
+2018-11-17T12:30:00,kijkduin,mauritshuis,2640
+2018-11-17T12:30:00,kijkduin,familiepark drievliet,4080
+2018-11-17T12:30:00,kijkduin,huistenbosch,2820
+2018-11-17T12:30:00,kijkduin,Museum Voorlinden,-1
+2018-11-17T12:30:00,de uithof,centraal,2280
+2018-11-17T12:30:00,de uithof,maduradam,2940
+2018-11-17T12:30:00,de uithof,gemeentemuseume,3720
+2018-11-17T12:30:00,de uithof,kijkduin,2580
+2018-11-17T12:30:00,de uithof,haagsemarkt,2340
+2018-11-17T12:30:00,de uithof,mauritshuis,2400
+2018-11-17T12:30:00,de uithof,familiepark drievliet,4020
+2018-11-17T12:30:00,de uithof,huistenbosch,2700
+2018-11-17T12:30:00,de uithof,Museum Voorlinden,-1
+2018-11-17T12:30:00,haagsemarkt,centraal,1260
+2018-11-17T12:30:00,haagsemarkt,maduradam,2220
+2018-11-17T12:30:00,haagsemarkt,gemeentemuseume,3000
+2018-11-17T12:30:00,haagsemarkt,kijkduin,2580
+2018-11-17T12:30:00,haagsemarkt,de uithof,2220
+2018-11-17T12:30:00,haagsemarkt,mauritshuis,1380
+2018-11-17T12:30:00,haagsemarkt,familiepark drievliet,2520
+2018-11-17T12:30:00,haagsemarkt,huistenbosch,1260
+2018-11-17T12:30:00,haagsemarkt,Museum Voorlinden,-1
+2018-11-17T12:30:00,mauritshuis,centraal,960
+2018-11-17T12:30:00,mauritshuis,maduradam,1140
+2018-11-17T12:30:00,mauritshuis,gemeentemuseume,1440
+2018-11-17T12:30:00,mauritshuis,kijkduin,2580
+2018-11-17T12:30:00,mauritshuis,de uithof,2400
+2018-11-17T12:30:00,mauritshuis,haagsemarkt,1380
+2018-11-17T12:30:00,mauritshuis,familiepark drievliet,2160
+2018-11-17T12:30:00,mauritshuis,huistenbosch,960
+2018-11-17T12:30:00,mauritshuis,Museum Voorlinden,-1
+2018-11-17T12:30:00,familiepark drievliet,centraal,2280
+2018-11-17T12:30:00,familiepark drievliet,maduradam,3180
+2018-11-17T12:30:00,familiepark drievliet,gemeentemuseume,3360
+2018-11-17T12:30:00,familiepark drievliet,kijkduin,4080
+2018-11-17T12:30:00,familiepark drievliet,de uithof,3900
+2018-11-17T12:30:00,familiepark drievliet,haagsemarkt,2700
+2018-11-17T12:30:00,familiepark drievliet,mauritshuis,2220
+2018-11-17T12:30:00,familiepark drievliet,huistenbosch,2520
+2018-11-17T12:30:00,familiepark drievliet,Museum Voorlinden,-1
+2018-11-17T12:30:00,huistenbosch,centraal,720
+2018-11-17T12:30:00,huistenbosch,maduradam,1200
+2018-11-17T12:30:00,huistenbosch,gemeentemuseume,2040
+2018-11-17T12:30:00,huistenbosch,kijkduin,3180
+2018-11-17T12:30:00,huistenbosch,de uithof,2520
+2018-11-17T12:30:00,huistenbosch,haagsemarkt,1380
+2018-11-17T12:30:00,huistenbosch,mauritshuis,1380
+2018-11-17T12:30:00,huistenbosch,familiepark drievliet,3180
+2018-11-17T12:30:00,huistenbosch,Museum Voorlinden,-1
+2018-11-17T12:30:00,Museum Voorlinden,centraal,-1
+2018-11-17T12:30:00,Museum Voorlinden,maduradam,-1
+2018-11-17T12:30:00,Museum Voorlinden,gemeentemuseume,-1
+2018-11-17T12:30:00,Museum Voorlinden,kijkduin,-1
+2018-11-17T12:30:00,Museum Voorlinden,de uithof,-1
+2018-11-17T12:30:00,Museum Voorlinden,haagsemarkt,-1
+2018-11-17T12:30:00,Museum Voorlinden,mauritshuis,-1
+2018-11-17T12:30:00,Museum Voorlinden,familiepark drievliet,-1
+2018-11-17T12:30:00,Museum Voorlinden,huistenbosch,-1
+2018-11-17T13:00:00,centraal,maduradam,1080
+2018-11-17T13:00:00,centraal,gemeentemuseume,1680
+2018-11-17T13:00:00,centraal,kijkduin,2760
+2018-11-17T13:00:00,centraal,de uithof,2340
+2018-11-17T13:00:00,centraal,haagsemarkt,1260
+2018-11-17T13:00:00,centraal,mauritshuis,720
+2018-11-17T13:00:00,centraal,familiepark drievliet,2160
+2018-11-17T13:00:00,centraal,huistenbosch,840
+2018-11-17T13:00:00,centraal,Museum Voorlinden,-1
+2018-11-17T13:00:00,maduradam,centraal,1200
+2018-11-17T13:00:00,maduradam,gemeentemuseume,2460
+2018-11-17T13:00:00,maduradam,kijkduin,3420
+2018-11-17T13:00:00,maduradam,de uithof,3600
+2018-11-17T13:00:00,maduradam,haagsemarkt,2040
+2018-11-17T13:00:00,maduradam,mauritshuis,1260
+2018-11-17T13:00:00,maduradam,familiepark drievliet,3240
+2018-11-17T13:00:00,maduradam,huistenbosch,1440
+2018-11-17T13:00:00,maduradam,Museum Voorlinden,-1
+2018-11-17T13:00:00,gemeentemuseume,centraal,1680
+2018-11-17T13:00:00,gemeentemuseume,maduradam,2580
+2018-11-17T13:00:00,gemeentemuseume,kijkduin,1980
+2018-11-17T13:00:00,gemeentemuseume,de uithof,3660
+2018-11-17T13:00:00,gemeentemuseume,haagsemarkt,2520
+2018-11-17T13:00:00,gemeentemuseume,mauritshuis,1560
+2018-11-17T13:00:00,gemeentemuseume,familiepark drievliet,3300
+2018-11-17T13:00:00,gemeentemuseume,huistenbosch,1980
+2018-11-17T13:00:00,gemeentemuseume,Museum Voorlinden,-1
+2018-11-17T13:00:00,kijkduin,centraal,2520
+2018-11-17T13:00:00,kijkduin,maduradam,3480
+2018-11-17T13:00:00,kijkduin,gemeentemuseume,2100
+2018-11-17T13:00:00,kijkduin,de uithof,3120
+2018-11-17T13:00:00,kijkduin,haagsemarkt,3060
+2018-11-17T13:00:00,kijkduin,mauritshuis,2640
+2018-11-17T13:00:00,kijkduin,familiepark drievliet,4080
+2018-11-17T13:00:00,kijkduin,huistenbosch,2820
+2018-11-17T13:00:00,kijkduin,Museum Voorlinden,-1
+2018-11-17T13:00:00,de uithof,centraal,2280
+2018-11-17T13:00:00,de uithof,maduradam,2940
+2018-11-17T13:00:00,de uithof,gemeentemuseume,3720
+2018-11-17T13:00:00,de uithof,kijkduin,2580
+2018-11-17T13:00:00,de uithof,haagsemarkt,2340
+2018-11-17T13:00:00,de uithof,mauritshuis,2400
+2018-11-17T13:00:00,de uithof,familiepark drievliet,4020
+2018-11-17T13:00:00,de uithof,huistenbosch,2700
+2018-11-17T13:00:00,de uithof,Museum Voorlinden,-1
+2018-11-17T13:00:00,haagsemarkt,centraal,1260
+2018-11-17T13:00:00,haagsemarkt,maduradam,2220
+2018-11-17T13:00:00,haagsemarkt,gemeentemuseume,3000
+2018-11-17T13:00:00,haagsemarkt,kijkduin,2580
+2018-11-17T13:00:00,haagsemarkt,de uithof,2220
+2018-11-17T13:00:00,haagsemarkt,mauritshuis,1380
+2018-11-17T13:00:00,haagsemarkt,familiepark drievliet,2580
+2018-11-17T13:00:00,haagsemarkt,huistenbosch,1260
+2018-11-17T13:00:00,haagsemarkt,Museum Voorlinden,-1
+2018-11-17T13:00:00,mauritshuis,centraal,960
+2018-11-17T13:00:00,mauritshuis,maduradam,1140
+2018-11-17T13:00:00,mauritshuis,gemeentemuseume,1440
+2018-11-17T13:00:00,mauritshuis,kijkduin,2580
+2018-11-17T13:00:00,mauritshuis,de uithof,2400
+2018-11-17T13:00:00,mauritshuis,haagsemarkt,1380
+2018-11-17T13:00:00,mauritshuis,familiepark drievliet,2160
+2018-11-17T13:00:00,mauritshuis,huistenbosch,960
+2018-11-17T13:00:00,mauritshuis,Museum Voorlinden,-1
+2018-11-17T13:00:00,familiepark drievliet,centraal,2340
+2018-11-17T13:00:00,familiepark drievliet,maduradam,3180
+2018-11-17T13:00:00,familiepark drievliet,gemeentemuseume,3360
+2018-11-17T13:00:00,familiepark drievliet,kijkduin,4080
+2018-11-17T13:00:00,familiepark drievliet,de uithof,3900
+2018-11-17T13:00:00,familiepark drievliet,haagsemarkt,2700
+2018-11-17T13:00:00,familiepark drievliet,mauritshuis,2160
+2018-11-17T13:00:00,familiepark drievliet,huistenbosch,2760
+2018-11-17T13:00:00,familiepark drievliet,Museum Voorlinden,-1
+2018-11-17T13:00:00,huistenbosch,centraal,720
+2018-11-17T13:00:00,huistenbosch,maduradam,1200
+2018-11-17T13:00:00,huistenbosch,gemeentemuseume,2040
+2018-11-17T13:00:00,huistenbosch,kijkduin,3180
+2018-11-17T13:00:00,huistenbosch,de uithof,2520
+2018-11-17T13:00:00,huistenbosch,haagsemarkt,1380
+2018-11-17T13:00:00,huistenbosch,mauritshuis,1380
+2018-11-17T13:00:00,huistenbosch,familiepark drievliet,2700
+2018-11-17T13:00:00,huistenbosch,Museum Voorlinden,-1
+2018-11-17T13:00:00,Museum Voorlinden,centraal,-1
+2018-11-17T13:00:00,Museum Voorlinden,maduradam,-1
+2018-11-17T13:00:00,Museum Voorlinden,gemeentemuseume,-1
+2018-11-17T13:00:00,Museum Voorlinden,kijkduin,-1
+2018-11-17T13:00:00,Museum Voorlinden,de uithof,-1
+2018-11-17T13:00:00,Museum Voorlinden,haagsemarkt,-1
+2018-11-17T13:00:00,Museum Voorlinden,mauritshuis,-1
+2018-11-17T13:00:00,Museum Voorlinden,familiepark drievliet,-1
+2018-11-17T13:00:00,Museum Voorlinden,huistenbosch,-1
+2018-11-17T13:30:00,centraal,maduradam,1080
+2018-11-17T13:30:00,centraal,gemeentemuseume,1680
+2018-11-17T13:30:00,centraal,kijkduin,2760
+2018-11-17T13:30:00,centraal,de uithof,2340
+2018-11-17T13:30:00,centraal,haagsemarkt,1260
+2018-11-17T13:30:00,centraal,mauritshuis,840
+2018-11-17T13:30:00,centraal,familiepark drievliet,2160
+2018-11-17T13:30:00,centraal,huistenbosch,840
+2018-11-17T13:30:00,centraal,Museum Voorlinden,-1
+2018-11-17T13:30:00,maduradam,centraal,1200
+2018-11-17T13:30:00,maduradam,gemeentemuseume,2460
+2018-11-17T13:30:00,maduradam,kijkduin,3420
+2018-11-17T13:30:00,maduradam,de uithof,3600
+2018-11-17T13:30:00,maduradam,haagsemarkt,2040
+2018-11-17T13:30:00,maduradam,mauritshuis,1260
+2018-11-17T13:30:00,maduradam,familiepark drievliet,3240
+2018-11-17T13:30:00,maduradam,huistenbosch,1440
+2018-11-17T13:30:00,maduradam,Museum Voorlinden,-1
+2018-11-17T13:30:00,gemeentemuseume,centraal,1680
+2018-11-17T13:30:00,gemeentemuseume,maduradam,2580
+2018-11-17T13:30:00,gemeentemuseume,kijkduin,1980
+2018-11-17T13:30:00,gemeentemuseume,de uithof,3660
+2018-11-17T13:30:00,gemeentemuseume,haagsemarkt,2520
+2018-11-17T13:30:00,gemeentemuseume,mauritshuis,1560
+2018-11-17T13:30:00,gemeentemuseume,familiepark drievliet,3300
+2018-11-17T13:30:00,gemeentemuseume,huistenbosch,1980
+2018-11-17T13:30:00,gemeentemuseume,Museum Voorlinden,-1
+2018-11-17T13:30:00,kijkduin,centraal,2520
+2018-11-17T13:30:00,kijkduin,maduradam,3480
+2018-11-17T13:30:00,kijkduin,gemeentemuseume,2100
+2018-11-17T13:30:00,kijkduin,de uithof,4200
+2018-11-17T13:30:00,kijkduin,haagsemarkt,3060
+2018-11-17T13:30:00,kijkduin,mauritshuis,2640
+2018-11-17T13:30:00,kijkduin,familiepark drievliet,4080
+2018-11-17T13:30:00,kijkduin,huistenbosch,2820
+2018-11-17T13:30:00,kijkduin,Museum Voorlinden,-1
+2018-11-17T13:30:00,de uithof,centraal,2280
+2018-11-17T13:30:00,de uithof,maduradam,2940
+2018-11-17T13:30:00,de uithof,gemeentemuseume,3720
+2018-11-17T13:30:00,de uithof,kijkduin,2580
+2018-11-17T13:30:00,de uithof,haagsemarkt,2340
+2018-11-17T13:30:00,de uithof,mauritshuis,2400
+2018-11-17T13:30:00,de uithof,familiepark drievliet,4020
+2018-11-17T13:30:00,de uithof,huistenbosch,2700
+2018-11-17T13:30:00,de uithof,Museum Voorlinden,-1
+2018-11-17T13:30:00,haagsemarkt,centraal,1260
+2018-11-17T13:30:00,haagsemarkt,maduradam,2220
+2018-11-17T13:30:00,haagsemarkt,gemeentemuseume,3000
+2018-11-17T13:30:00,haagsemarkt,kijkduin,2580
+2018-11-17T13:30:00,haagsemarkt,de uithof,2220
+2018-11-17T13:30:00,haagsemarkt,mauritshuis,1380
+2018-11-17T13:30:00,haagsemarkt,familiepark drievliet,2580
+2018-11-17T13:30:00,haagsemarkt,huistenbosch,1260
+2018-11-17T13:30:00,haagsemarkt,Museum Voorlinden,-1
+2018-11-17T13:30:00,mauritshuis,centraal,960
+2018-11-17T13:30:00,mauritshuis,maduradam,1140
+2018-11-17T13:30:00,mauritshuis,gemeentemuseume,1440
+2018-11-17T13:30:00,mauritshuis,kijkduin,2580
+2018-11-17T13:30:00,mauritshuis,de uithof,2400
+2018-11-17T13:30:00,mauritshuis,haagsemarkt,1380
+2018-11-17T13:30:00,mauritshuis,familiepark drievliet,2160
+2018-11-17T13:30:00,mauritshuis,huistenbosch,960
+2018-11-17T13:30:00,mauritshuis,Museum Voorlinden,-1
+2018-11-17T13:30:00,familiepark drievliet,centraal,2280
+2018-11-17T13:30:00,familiepark drievliet,maduradam,3180
+2018-11-17T13:30:00,familiepark drievliet,gemeentemuseume,3360
+2018-11-17T13:30:00,familiepark drievliet,kijkduin,4080
+2018-11-17T13:30:00,familiepark drievliet,de uithof,3900
+2018-11-17T13:30:00,familiepark drievliet,haagsemarkt,2700
+2018-11-17T13:30:00,familiepark drievliet,mauritshuis,2220
+2018-11-17T13:30:00,familiepark drievliet,huistenbosch,2520
+2018-11-17T13:30:00,familiepark drievliet,Museum Voorlinden,-1
+2018-11-17T13:30:00,huistenbosch,centraal,720
+2018-11-17T13:30:00,huistenbosch,maduradam,1200
+2018-11-17T13:30:00,huistenbosch,gemeentemuseume,2040
+2018-11-17T13:30:00,huistenbosch,kijkduin,3180
+2018-11-17T13:30:00,huistenbosch,de uithof,2520
+2018-11-17T13:30:00,huistenbosch,haagsemarkt,1380
+2018-11-17T13:30:00,huistenbosch,mauritshuis,1380
+2018-11-17T13:30:00,huistenbosch,familiepark drievliet,3180
+2018-11-17T13:30:00,huistenbosch,Museum Voorlinden,-1
+2018-11-17T13:30:00,Museum Voorlinden,centraal,-1
+2018-11-17T13:30:00,Museum Voorlinden,maduradam,-1
+2018-11-17T13:30:00,Museum Voorlinden,gemeentemuseume,-1
+2018-11-17T13:30:00,Museum Voorlinden,kijkduin,-1
+2018-11-17T13:30:00,Museum Voorlinden,de uithof,-1
+2018-11-17T13:30:00,Museum Voorlinden,haagsemarkt,-1
+2018-11-17T13:30:00,Museum Voorlinden,mauritshuis,-1
+2018-11-17T13:30:00,Museum Voorlinden,familiepark drievliet,-1
+2018-11-17T13:30:00,Museum Voorlinden,huistenbosch,-1
+2018-11-17T14:00:00,centraal,maduradam,1080
+2018-11-17T14:00:00,centraal,gemeentemuseume,1680
+2018-11-17T14:00:00,centraal,kijkduin,2760
+2018-11-17T14:00:00,centraal,de uithof,2340
+2018-11-17T14:00:00,centraal,haagsemarkt,1260
+2018-11-17T14:00:00,centraal,mauritshuis,720
+2018-11-17T14:00:00,centraal,familiepark drievliet,2160
+2018-11-17T14:00:00,centraal,huistenbosch,840
+2018-11-17T14:00:00,centraal,Museum Voorlinden,-1
+2018-11-17T14:00:00,maduradam,centraal,1200
+2018-11-17T14:00:00,maduradam,gemeentemuseume,2460
+2018-11-17T14:00:00,maduradam,kijkduin,3420
+2018-11-17T14:00:00,maduradam,de uithof,3600
+2018-11-17T14:00:00,maduradam,haagsemarkt,2040
+2018-11-17T14:00:00,maduradam,mauritshuis,1260
+2018-11-17T14:00:00,maduradam,familiepark drievliet,3240
+2018-11-17T14:00:00,maduradam,huistenbosch,1440
+2018-11-17T14:00:00,maduradam,Museum Voorlinden,-1
+2018-11-17T14:00:00,gemeentemuseume,centraal,1680
+2018-11-17T14:00:00,gemeentemuseume,maduradam,2580
+2018-11-17T14:00:00,gemeentemuseume,kijkduin,1980
+2018-11-17T14:00:00,gemeentemuseume,de uithof,3660
+2018-11-17T14:00:00,gemeentemuseume,haagsemarkt,2520
+2018-11-17T14:00:00,gemeentemuseume,mauritshuis,1560
+2018-11-17T14:00:00,gemeentemuseume,familiepark drievliet,3300
+2018-11-17T14:00:00,gemeentemuseume,huistenbosch,1980
+2018-11-17T14:00:00,gemeentemuseume,Museum Voorlinden,-1
+2018-11-17T14:00:00,kijkduin,centraal,2520
+2018-11-17T14:00:00,kijkduin,maduradam,3480
+2018-11-17T14:00:00,kijkduin,gemeentemuseume,2100
+2018-11-17T14:00:00,kijkduin,de uithof,3120
+2018-11-17T14:00:00,kijkduin,haagsemarkt,3060
+2018-11-17T14:00:00,kijkduin,mauritshuis,2640
+2018-11-17T14:00:00,kijkduin,familiepark drievliet,4080
+2018-11-17T14:00:00,kijkduin,huistenbosch,2820
+2018-11-17T14:00:00,kijkduin,Museum Voorlinden,-1
+2018-11-17T14:00:00,de uithof,centraal,2280
+2018-11-17T14:00:00,de uithof,maduradam,2940
+2018-11-17T14:00:00,de uithof,gemeentemuseume,3720
+2018-11-17T14:00:00,de uithof,kijkduin,2580
+2018-11-17T14:00:00,de uithof,haagsemarkt,2340
+2018-11-17T14:00:00,de uithof,mauritshuis,2400
+2018-11-17T14:00:00,de uithof,familiepark drievliet,4020
+2018-11-17T14:00:00,de uithof,huistenbosch,2700
+2018-11-17T14:00:00,de uithof,Museum Voorlinden,-1
+2018-11-17T14:00:00,haagsemarkt,centraal,1260
+2018-11-17T14:00:00,haagsemarkt,maduradam,2220
+2018-11-17T14:00:00,haagsemarkt,gemeentemuseume,3000
+2018-11-17T14:00:00,haagsemarkt,kijkduin,2580
+2018-11-17T14:00:00,haagsemarkt,de uithof,2220
+2018-11-17T14:00:00,haagsemarkt,mauritshuis,1380
+2018-11-17T14:00:00,haagsemarkt,familiepark drievliet,2580
+2018-11-17T14:00:00,haagsemarkt,huistenbosch,1260
+2018-11-17T14:00:00,haagsemarkt,Museum Voorlinden,-1
+2018-11-17T14:00:00,mauritshuis,centraal,960
+2018-11-17T14:00:00,mauritshuis,maduradam,1140
+2018-11-17T14:00:00,mauritshuis,gemeentemuseume,1440
+2018-11-17T14:00:00,mauritshuis,kijkduin,2580
+2018-11-17T14:00:00,mauritshuis,de uithof,2400
+2018-11-17T14:00:00,mauritshuis,haagsemarkt,1380
+2018-11-17T14:00:00,mauritshuis,familiepark drievliet,2160
+2018-11-17T14:00:00,mauritshuis,huistenbosch,960
+2018-11-17T14:00:00,mauritshuis,Museum Voorlinden,-1
+2018-11-17T14:00:00,familiepark drievliet,centraal,2340
+2018-11-17T14:00:00,familiepark drievliet,maduradam,3180
+2018-11-17T14:00:00,familiepark drievliet,gemeentemuseume,3360
+2018-11-17T14:00:00,familiepark drievliet,kijkduin,4080
+2018-11-17T14:00:00,familiepark drievliet,de uithof,3900
+2018-11-17T14:00:00,familiepark drievliet,haagsemarkt,2700
+2018-11-17T14:00:00,familiepark drievliet,mauritshuis,2160
+2018-11-17T14:00:00,familiepark drievliet,huistenbosch,2760
+2018-11-17T14:00:00,familiepark drievliet,Museum Voorlinden,-1
+2018-11-17T14:00:00,huistenbosch,centraal,720
+2018-11-17T14:00:00,huistenbosch,maduradam,1200
+2018-11-17T14:00:00,huistenbosch,gemeentemuseume,2040
+2018-11-17T14:00:00,huistenbosch,kijkduin,3180
+2018-11-17T14:00:00,huistenbosch,de uithof,2520
+2018-11-17T14:00:00,huistenbosch,haagsemarkt,1380
+2018-11-17T14:00:00,huistenbosch,mauritshuis,1380
+2018-11-17T14:00:00,huistenbosch,familiepark drievliet,2700
+2018-11-17T14:00:00,huistenbosch,Museum Voorlinden,-1
+2018-11-17T14:00:00,Museum Voorlinden,centraal,-1
+2018-11-17T14:00:00,Museum Voorlinden,maduradam,-1
+2018-11-17T14:00:00,Museum Voorlinden,gemeentemuseume,-1
+2018-11-17T14:00:00,Museum Voorlinden,kijkduin,-1
+2018-11-17T14:00:00,Museum Voorlinden,de uithof,-1
+2018-11-17T14:00:00,Museum Voorlinden,haagsemarkt,-1
+2018-11-17T14:00:00,Museum Voorlinden,mauritshuis,-1
+2018-11-17T14:00:00,Museum Voorlinden,familiepark drievliet,-1
+2018-11-17T14:00:00,Museum Voorlinden,huistenbosch,-1
+2018-11-17T14:30:00,centraal,maduradam,1080
+2018-11-17T14:30:00,centraal,gemeentemuseume,1680
+2018-11-17T14:30:00,centraal,kijkduin,2760
+2018-11-17T14:30:00,centraal,de uithof,2340
+2018-11-17T14:30:00,centraal,haagsemarkt,1260
+2018-11-17T14:30:00,centraal,mauritshuis,840
+2018-11-17T14:30:00,centraal,familiepark drievliet,2160
+2018-11-17T14:30:00,centraal,huistenbosch,840
+2018-11-17T14:30:00,centraal,Museum Voorlinden,-1
+2018-11-17T14:30:00,maduradam,centraal,1200
+2018-11-17T14:30:00,maduradam,gemeentemuseume,2460
+2018-11-17T14:30:00,maduradam,kijkduin,3420
+2018-11-17T14:30:00,maduradam,de uithof,3600
+2018-11-17T14:30:00,maduradam,haagsemarkt,2040
+2018-11-17T14:30:00,maduradam,mauritshuis,1260
+2018-11-17T14:30:00,maduradam,familiepark drievliet,3240
+2018-11-17T14:30:00,maduradam,huistenbosch,1440
+2018-11-17T14:30:00,maduradam,Museum Voorlinden,-1
+2018-11-17T14:30:00,gemeentemuseume,centraal,1680
+2018-11-17T14:30:00,gemeentemuseume,maduradam,2580
+2018-11-17T14:30:00,gemeentemuseume,kijkduin,1980
+2018-11-17T14:30:00,gemeentemuseume,de uithof,3660
+2018-11-17T14:30:00,gemeentemuseume,haagsemarkt,2520
+2018-11-17T14:30:00,gemeentemuseume,mauritshuis,1560
+2018-11-17T14:30:00,gemeentemuseume,familiepark drievliet,3300
+2018-11-17T14:30:00,gemeentemuseume,huistenbosch,1980
+2018-11-17T14:30:00,gemeentemuseume,Museum Voorlinden,-1
+2018-11-17T14:30:00,kijkduin,centraal,2520
+2018-11-17T14:30:00,kijkduin,maduradam,3480
+2018-11-17T14:30:00,kijkduin,gemeentemuseume,2100
+2018-11-17T14:30:00,kijkduin,de uithof,3960
+2018-11-17T14:30:00,kijkduin,haagsemarkt,3060
+2018-11-17T14:30:00,kijkduin,mauritshuis,2640
+2018-11-17T14:30:00,kijkduin,familiepark drievliet,4080
+2018-11-17T14:30:00,kijkduin,huistenbosch,2820
+2018-11-17T14:30:00,kijkduin,Museum Voorlinden,-1
+2018-11-17T14:30:00,de uithof,centraal,2280
+2018-11-17T14:30:00,de uithof,maduradam,2940
+2018-11-17T14:30:00,de uithof,gemeentemuseume,3720
+2018-11-17T14:30:00,de uithof,kijkduin,2580
+2018-11-17T14:30:00,de uithof,haagsemarkt,2340
+2018-11-17T14:30:00,de uithof,mauritshuis,2400
+2018-11-17T14:30:00,de uithof,familiepark drievliet,4020
+2018-11-17T14:30:00,de uithof,huistenbosch,2700
+2018-11-17T14:30:00,de uithof,Museum Voorlinden,-1
+2018-11-17T14:30:00,haagsemarkt,centraal,1260
+2018-11-17T14:30:00,haagsemarkt,maduradam,2220
+2018-11-17T14:30:00,haagsemarkt,gemeentemuseume,3000
+2018-11-17T14:30:00,haagsemarkt,kijkduin,2580
+2018-11-17T14:30:00,haagsemarkt,de uithof,2220
+2018-11-17T14:30:00,haagsemarkt,mauritshuis,1380
+2018-11-17T14:30:00,haagsemarkt,familiepark drievliet,2580
+2018-11-17T14:30:00,haagsemarkt,huistenbosch,1260
+2018-11-17T14:30:00,haagsemarkt,Museum Voorlinden,-1
+2018-11-17T14:30:00,mauritshuis,centraal,960
+2018-11-17T14:30:00,mauritshuis,maduradam,1140
+2018-11-17T14:30:00,mauritshuis,gemeentemuseume,1440
+2018-11-17T14:30:00,mauritshuis,kijkduin,2580
+2018-11-17T14:30:00,mauritshuis,de uithof,2400
+2018-11-17T14:30:00,mauritshuis,haagsemarkt,1380
+2018-11-17T14:30:00,mauritshuis,familiepark drievliet,2160
+2018-11-17T14:30:00,mauritshuis,huistenbosch,960
+2018-11-17T14:30:00,mauritshuis,Museum Voorlinden,-1
+2018-11-17T14:30:00,familiepark drievliet,centraal,2280
+2018-11-17T14:30:00,familiepark drievliet,maduradam,3180
+2018-11-17T14:30:00,familiepark drievliet,gemeentemuseume,3360
+2018-11-17T14:30:00,familiepark drievliet,kijkduin,4080
+2018-11-17T14:30:00,familiepark drievliet,de uithof,3900
+2018-11-17T14:30:00,familiepark drievliet,haagsemarkt,2700
+2018-11-17T14:30:00,familiepark drievliet,mauritshuis,2220
+2018-11-17T14:30:00,familiepark drievliet,huistenbosch,2520
+2018-11-17T14:30:00,familiepark drievliet,Museum Voorlinden,-1
+2018-11-17T14:30:00,huistenbosch,centraal,720
+2018-11-17T14:30:00,huistenbosch,maduradam,1200
+2018-11-17T14:30:00,huistenbosch,gemeentemuseume,2040
+2018-11-17T14:30:00,huistenbosch,kijkduin,3180
+2018-11-17T14:30:00,huistenbosch,de uithof,2520
+2018-11-17T14:30:00,huistenbosch,haagsemarkt,1380
+2018-11-17T14:30:00,huistenbosch,mauritshuis,1380
+2018-11-17T14:30:00,huistenbosch,familiepark drievliet,3180
+2018-11-17T14:30:00,huistenbosch,Museum Voorlinden,-1
+2018-11-17T14:30:00,Museum Voorlinden,centraal,-1
+2018-11-17T14:30:00,Museum Voorlinden,maduradam,-1
+2018-11-17T14:30:00,Museum Voorlinden,gemeentemuseume,-1
+2018-11-17T14:30:00,Museum Voorlinden,kijkduin,-1
+2018-11-17T14:30:00,Museum Voorlinden,de uithof,-1
+2018-11-17T14:30:00,Museum Voorlinden,haagsemarkt,-1
+2018-11-17T14:30:00,Museum Voorlinden,mauritshuis,-1
+2018-11-17T14:30:00,Museum Voorlinden,familiepark drievliet,-1
+2018-11-17T14:30:00,Museum Voorlinden,huistenbosch,-1
+2018-11-17T15:00:00,centraal,maduradam,1080
+2018-11-17T15:00:00,centraal,gemeentemuseume,1620
+2018-11-17T15:00:00,centraal,kijkduin,2760
+2018-11-17T15:00:00,centraal,de uithof,2340
+2018-11-17T15:00:00,centraal,haagsemarkt,1260
+2018-11-17T15:00:00,centraal,mauritshuis,720
+2018-11-17T15:00:00,centraal,familiepark drievliet,2160
+2018-11-17T15:00:00,centraal,huistenbosch,840
+2018-11-17T15:00:00,centraal,Museum Voorlinden,-1
+2018-11-17T15:00:00,maduradam,centraal,1200
+2018-11-17T15:00:00,maduradam,gemeentemuseume,2460
+2018-11-17T15:00:00,maduradam,kijkduin,3420
+2018-11-17T15:00:00,maduradam,de uithof,3600
+2018-11-17T15:00:00,maduradam,haagsemarkt,1920
+2018-11-17T15:00:00,maduradam,mauritshuis,1200
+2018-11-17T15:00:00,maduradam,familiepark drievliet,3300
+2018-11-17T15:00:00,maduradam,huistenbosch,1440
+2018-11-17T15:00:00,maduradam,Museum Voorlinden,-1
+2018-11-17T15:00:00,gemeentemuseume,centraal,1680
+2018-11-17T15:00:00,gemeentemuseume,maduradam,2520
+2018-11-17T15:00:00,gemeentemuseume,kijkduin,1980
+2018-11-17T15:00:00,gemeentemuseume,de uithof,3660
+2018-11-17T15:00:00,gemeentemuseume,haagsemarkt,2460
+2018-11-17T15:00:00,gemeentemuseume,mauritshuis,1500
+2018-11-17T15:00:00,gemeentemuseume,familiepark drievliet,3360
+2018-11-17T15:00:00,gemeentemuseume,huistenbosch,1920
+2018-11-17T15:00:00,gemeentemuseume,Museum Voorlinden,-1
+2018-11-17T15:00:00,kijkduin,centraal,2520
+2018-11-17T15:00:00,kijkduin,maduradam,3420
+2018-11-17T15:00:00,kijkduin,gemeentemuseume,2040
+2018-11-17T15:00:00,kijkduin,de uithof,3120
+2018-11-17T15:00:00,kijkduin,haagsemarkt,3060
+2018-11-17T15:00:00,kijkduin,mauritshuis,2640
+2018-11-17T15:00:00,kijkduin,familiepark drievliet,4500
+2018-11-17T15:00:00,kijkduin,huistenbosch,2820
+2018-11-17T15:00:00,kijkduin,Museum Voorlinden,-1
+2018-11-17T15:00:00,de uithof,centraal,2280
+2018-11-17T15:00:00,de uithof,maduradam,2880
+2018-11-17T15:00:00,de uithof,gemeentemuseume,3660
+2018-11-17T15:00:00,de uithof,kijkduin,2400
+2018-11-17T15:00:00,de uithof,haagsemarkt,2280
+2018-11-17T15:00:00,de uithof,mauritshuis,2400
+2018-11-17T15:00:00,de uithof,familiepark drievliet,4020
+2018-11-17T15:00:00,de uithof,huistenbosch,2820
+2018-11-17T15:00:00,de uithof,Museum Voorlinden,-1
+2018-11-17T15:00:00,haagsemarkt,centraal,1260
+2018-11-17T15:00:00,haagsemarkt,maduradam,2040
+2018-11-17T15:00:00,haagsemarkt,gemeentemuseume,2820
+2018-11-17T15:00:00,haagsemarkt,kijkduin,2400
+2018-11-17T15:00:00,haagsemarkt,de uithof,2160
+2018-11-17T15:00:00,haagsemarkt,mauritshuis,1380
+2018-11-17T15:00:00,haagsemarkt,familiepark drievliet,2640
+2018-11-17T15:00:00,haagsemarkt,huistenbosch,1260
+2018-11-17T15:00:00,haagsemarkt,Museum Voorlinden,-1
+2018-11-17T15:00:00,mauritshuis,centraal,960
+2018-11-17T15:00:00,mauritshuis,maduradam,1140
+2018-11-17T15:00:00,mauritshuis,gemeentemuseume,1440
+2018-11-17T15:00:00,mauritshuis,kijkduin,2580
+2018-11-17T15:00:00,mauritshuis,de uithof,2400
+2018-11-17T15:00:00,mauritshuis,haagsemarkt,1380
+2018-11-17T15:00:00,mauritshuis,familiepark drievliet,2160
+2018-11-17T15:00:00,mauritshuis,huistenbosch,960
+2018-11-17T15:00:00,mauritshuis,Museum Voorlinden,-1
+2018-11-17T15:00:00,familiepark drievliet,centraal,2340
+2018-11-17T15:00:00,familiepark drievliet,maduradam,3120
+2018-11-17T15:00:00,familiepark drievliet,gemeentemuseume,3300
+2018-11-17T15:00:00,familiepark drievliet,kijkduin,4080
+2018-11-17T15:00:00,familiepark drievliet,de uithof,3900
+2018-11-17T15:00:00,familiepark drievliet,haagsemarkt,2700
+2018-11-17T15:00:00,familiepark drievliet,mauritshuis,2100
+2018-11-17T15:00:00,familiepark drievliet,huistenbosch,2880
+2018-11-17T15:00:00,familiepark drievliet,Museum Voorlinden,-1
+2018-11-17T15:00:00,huistenbosch,centraal,720
+2018-11-17T15:00:00,huistenbosch,maduradam,1200
+2018-11-17T15:00:00,huistenbosch,gemeentemuseume,2040
+2018-11-17T15:00:00,huistenbosch,kijkduin,3180
+2018-11-17T15:00:00,huistenbosch,de uithof,2520
+2018-11-17T15:00:00,huistenbosch,haagsemarkt,1260
+2018-11-17T15:00:00,huistenbosch,mauritshuis,1380
+2018-11-17T15:00:00,huistenbosch,familiepark drievliet,2700
+2018-11-17T15:00:00,huistenbosch,Museum Voorlinden,-1
+2018-11-17T15:00:00,Museum Voorlinden,centraal,-1
+2018-11-17T15:00:00,Museum Voorlinden,maduradam,-1
+2018-11-17T15:00:00,Museum Voorlinden,gemeentemuseume,-1
+2018-11-17T15:00:00,Museum Voorlinden,kijkduin,-1
+2018-11-17T15:00:00,Museum Voorlinden,de uithof,-1
+2018-11-17T15:00:00,Museum Voorlinden,haagsemarkt,-1
+2018-11-17T15:00:00,Museum Voorlinden,mauritshuis,-1
+2018-11-17T15:00:00,Museum Voorlinden,familiepark drievliet,-1
+2018-11-17T15:00:00,Museum Voorlinden,huistenbosch,-1
+2018-11-17T15:30:00,centraal,maduradam,1020
+2018-11-17T15:30:00,centraal,gemeentemuseume,1620
+2018-11-17T15:30:00,centraal,kijkduin,2760
+2018-11-17T15:30:00,centraal,de uithof,2340
+2018-11-17T15:30:00,centraal,haagsemarkt,1560
+2018-11-17T15:30:00,centraal,mauritshuis,840
+2018-11-17T15:30:00,centraal,familiepark drievliet,2160
+2018-11-17T15:30:00,centraal,huistenbosch,840
+2018-11-17T15:30:00,centraal,Museum Voorlinden,-1
+2018-11-17T15:30:00,maduradam,centraal,1200
+2018-11-17T15:30:00,maduradam,gemeentemuseume,2460
+2018-11-17T15:30:00,maduradam,kijkduin,3420
+2018-11-17T15:30:00,maduradam,de uithof,3600
+2018-11-17T15:30:00,maduradam,haagsemarkt,1920
+2018-11-17T15:30:00,maduradam,mauritshuis,1320
+2018-11-17T15:30:00,maduradam,familiepark drievliet,3240
+2018-11-17T15:30:00,maduradam,huistenbosch,1440
+2018-11-17T15:30:00,maduradam,Museum Voorlinden,-1
+2018-11-17T15:30:00,gemeentemuseume,centraal,1680
+2018-11-17T15:30:00,gemeentemuseume,maduradam,2880
+2018-11-17T15:30:00,gemeentemuseume,kijkduin,2040
+2018-11-17T15:30:00,gemeentemuseume,de uithof,3660
+2018-11-17T15:30:00,gemeentemuseume,haagsemarkt,2460
+2018-11-17T15:30:00,gemeentemuseume,mauritshuis,1500
+2018-11-17T15:30:00,gemeentemuseume,familiepark drievliet,3900
+2018-11-17T15:30:00,gemeentemuseume,huistenbosch,1980
+2018-11-17T15:30:00,gemeentemuseume,Museum Voorlinden,-1
+2018-11-17T15:30:00,kijkduin,centraal,2520
+2018-11-17T15:30:00,kijkduin,maduradam,3420
+2018-11-17T15:30:00,kijkduin,gemeentemuseume,2040
+2018-11-17T15:30:00,kijkduin,de uithof,3840
+2018-11-17T15:30:00,kijkduin,haagsemarkt,3060
+2018-11-17T15:30:00,kijkduin,mauritshuis,2640
+2018-11-17T15:30:00,kijkduin,familiepark drievliet,3960
+2018-11-17T15:30:00,kijkduin,huistenbosch,2820
+2018-11-17T15:30:00,kijkduin,Museum Voorlinden,-1
+2018-11-17T15:30:00,de uithof,centraal,2280
+2018-11-17T15:30:00,de uithof,maduradam,2880
+2018-11-17T15:30:00,de uithof,gemeentemuseume,3660
+2018-11-17T15:30:00,de uithof,kijkduin,2400
+2018-11-17T15:30:00,de uithof,haagsemarkt,2160
+2018-11-17T15:30:00,de uithof,mauritshuis,2400
+2018-11-17T15:30:00,de uithof,familiepark drievliet,4020
+2018-11-17T15:30:00,de uithof,huistenbosch,2820
+2018-11-17T15:30:00,de uithof,Museum Voorlinden,-1
+2018-11-17T15:30:00,haagsemarkt,centraal,1260
+2018-11-17T15:30:00,haagsemarkt,maduradam,2040
+2018-11-17T15:30:00,haagsemarkt,gemeentemuseume,2940
+2018-11-17T15:30:00,haagsemarkt,kijkduin,2460
+2018-11-17T15:30:00,haagsemarkt,de uithof,2160
+2018-11-17T15:30:00,haagsemarkt,mauritshuis,1380
+2018-11-17T15:30:00,haagsemarkt,familiepark drievliet,2640
+2018-11-17T15:30:00,haagsemarkt,huistenbosch,1260
+2018-11-17T15:30:00,haagsemarkt,Museum Voorlinden,-1
+2018-11-17T15:30:00,mauritshuis,centraal,960
+2018-11-17T15:30:00,mauritshuis,maduradam,1140
+2018-11-17T15:30:00,mauritshuis,gemeentemuseume,1500
+2018-11-17T15:30:00,mauritshuis,kijkduin,2520
+2018-11-17T15:30:00,mauritshuis,de uithof,2400
+2018-11-17T15:30:00,mauritshuis,haagsemarkt,1320
+2018-11-17T15:30:00,mauritshuis,familiepark drievliet,2160
+2018-11-17T15:30:00,mauritshuis,huistenbosch,960
+2018-11-17T15:30:00,mauritshuis,Museum Voorlinden,-1
+2018-11-17T15:30:00,familiepark drievliet,centraal,2520
+2018-11-17T15:30:00,familiepark drievliet,maduradam,3180
+2018-11-17T15:30:00,familiepark drievliet,gemeentemuseume,3360
+2018-11-17T15:30:00,familiepark drievliet,kijkduin,3840
+2018-11-17T15:30:00,familiepark drievliet,de uithof,3900
+2018-11-17T15:30:00,familiepark drievliet,haagsemarkt,2760
+2018-11-17T15:30:00,familiepark drievliet,mauritshuis,2220
+2018-11-17T15:30:00,familiepark drievliet,huistenbosch,2880
+2018-11-17T15:30:00,familiepark drievliet,Museum Voorlinden,-1
+2018-11-17T15:30:00,huistenbosch,centraal,600
+2018-11-17T15:30:00,huistenbosch,maduradam,1740
+2018-11-17T15:30:00,huistenbosch,gemeentemuseume,1920
+2018-11-17T15:30:00,huistenbosch,kijkduin,2760
+2018-11-17T15:30:00,huistenbosch,de uithof,2520
+2018-11-17T15:30:00,huistenbosch,haagsemarkt,1260
+2018-11-17T15:30:00,huistenbosch,mauritshuis,1020
+2018-11-17T15:30:00,huistenbosch,familiepark drievliet,2760
+2018-11-17T15:30:00,huistenbosch,Museum Voorlinden,-1
+2018-11-17T15:30:00,Museum Voorlinden,centraal,-1
+2018-11-17T15:30:00,Museum Voorlinden,maduradam,-1
+2018-11-17T15:30:00,Museum Voorlinden,gemeentemuseume,-1
+2018-11-17T15:30:00,Museum Voorlinden,kijkduin,-1
+2018-11-17T15:30:00,Museum Voorlinden,de uithof,-1
+2018-11-17T15:30:00,Museum Voorlinden,haagsemarkt,-1
+2018-11-17T15:30:00,Museum Voorlinden,mauritshuis,-1
+2018-11-17T15:30:00,Museum Voorlinden,familiepark drievliet,-1
+2018-11-17T15:30:00,Museum Voorlinden,huistenbosch,-1
+2018-11-17T16:00:00,centraal,maduradam,1020
+2018-11-17T16:00:00,centraal,gemeentemuseume,1620
+2018-11-17T16:00:00,centraal,kijkduin,2760
+2018-11-17T16:00:00,centraal,de uithof,2340
+2018-11-17T16:00:00,centraal,haagsemarkt,1560
+2018-11-17T16:00:00,centraal,mauritshuis,720
+2018-11-17T16:00:00,centraal,familiepark drievliet,2160
+2018-11-17T16:00:00,centraal,huistenbosch,840
+2018-11-17T16:00:00,centraal,Museum Voorlinden,-1
+2018-11-17T16:00:00,maduradam,centraal,1140
+2018-11-17T16:00:00,maduradam,gemeentemuseume,2520
+2018-11-17T16:00:00,maduradam,kijkduin,3360
+2018-11-17T16:00:00,maduradam,de uithof,3120
+2018-11-17T16:00:00,maduradam,haagsemarkt,2040
+2018-11-17T16:00:00,maduradam,mauritshuis,1200
+2018-11-17T16:00:00,maduradam,familiepark drievliet,3180
+2018-11-17T16:00:00,maduradam,huistenbosch,2040
+2018-11-17T16:00:00,maduradam,Museum Voorlinden,-1
+2018-11-17T16:00:00,gemeentemuseume,centraal,1680
+2018-11-17T16:00:00,gemeentemuseume,maduradam,2460
+2018-11-17T16:00:00,gemeentemuseume,kijkduin,2040
+2018-11-17T16:00:00,gemeentemuseume,de uithof,3720
+2018-11-17T16:00:00,gemeentemuseume,haagsemarkt,2640
+2018-11-17T16:00:00,gemeentemuseume,mauritshuis,1500
+2018-11-17T16:00:00,gemeentemuseume,familiepark drievliet,3300
+2018-11-17T16:00:00,gemeentemuseume,huistenbosch,1980
+2018-11-17T16:00:00,gemeentemuseume,Museum Voorlinden,-1
+2018-11-17T16:00:00,kijkduin,centraal,2520
+2018-11-17T16:00:00,kijkduin,maduradam,3420
+2018-11-17T16:00:00,kijkduin,gemeentemuseume,2040
+2018-11-17T16:00:00,kijkduin,de uithof,3120
+2018-11-17T16:00:00,kijkduin,haagsemarkt,3060
+2018-11-17T16:00:00,kijkduin,mauritshuis,2640
+2018-11-17T16:00:00,kijkduin,familiepark drievliet,4500
+2018-11-17T16:00:00,kijkduin,huistenbosch,2820
+2018-11-17T16:00:00,kijkduin,Museum Voorlinden,-1
+2018-11-17T16:00:00,de uithof,centraal,2280
+2018-11-17T16:00:00,de uithof,maduradam,2880
+2018-11-17T16:00:00,de uithof,gemeentemuseume,3660
+2018-11-17T16:00:00,de uithof,kijkduin,2400
+2018-11-17T16:00:00,de uithof,haagsemarkt,2160
+2018-11-17T16:00:00,de uithof,mauritshuis,2400
+2018-11-17T16:00:00,de uithof,familiepark drievliet,4020
+2018-11-17T16:00:00,de uithof,huistenbosch,2820
+2018-11-17T16:00:00,de uithof,Museum Voorlinden,-1
+2018-11-17T16:00:00,haagsemarkt,centraal,1500
+2018-11-17T16:00:00,haagsemarkt,maduradam,1800
+2018-11-17T16:00:00,haagsemarkt,gemeentemuseume,2940
+2018-11-17T16:00:00,haagsemarkt,kijkduin,2460
+2018-11-17T16:00:00,haagsemarkt,de uithof,2160
+2018-11-17T16:00:00,haagsemarkt,mauritshuis,1380
+2018-11-17T16:00:00,haagsemarkt,familiepark drievliet,2580
+2018-11-17T16:00:00,haagsemarkt,huistenbosch,1500
+2018-11-17T16:00:00,haagsemarkt,Museum Voorlinden,-1
+2018-11-17T16:00:00,mauritshuis,centraal,840
+2018-11-17T16:00:00,mauritshuis,maduradam,1140
+2018-11-17T16:00:00,mauritshuis,gemeentemuseume,1500
+2018-11-17T16:00:00,mauritshuis,kijkduin,2520
+2018-11-17T16:00:00,mauritshuis,de uithof,2400
+2018-11-17T16:00:00,mauritshuis,haagsemarkt,1320
+2018-11-17T16:00:00,mauritshuis,familiepark drievliet,2160
+2018-11-17T16:00:00,mauritshuis,huistenbosch,1020
+2018-11-17T16:00:00,mauritshuis,Museum Voorlinden,-1
+2018-11-17T16:00:00,familiepark drievliet,centraal,2280
+2018-11-17T16:00:00,familiepark drievliet,maduradam,3180
+2018-11-17T16:00:00,familiepark drievliet,gemeentemuseume,3360
+2018-11-17T16:00:00,familiepark drievliet,kijkduin,3840
+2018-11-17T16:00:00,familiepark drievliet,de uithof,3900
+2018-11-17T16:00:00,familiepark drievliet,haagsemarkt,2760
+2018-11-17T16:00:00,familiepark drievliet,mauritshuis,2100
+2018-11-17T16:00:00,familiepark drievliet,huistenbosch,2400
+2018-11-17T16:00:00,familiepark drievliet,Museum Voorlinden,-1
+2018-11-17T16:00:00,huistenbosch,centraal,600
+2018-11-17T16:00:00,huistenbosch,maduradam,1740
+2018-11-17T16:00:00,huistenbosch,gemeentemuseume,1920
+2018-11-17T16:00:00,huistenbosch,kijkduin,2760
+2018-11-17T16:00:00,huistenbosch,de uithof,2520
+2018-11-17T16:00:00,huistenbosch,haagsemarkt,1260
+2018-11-17T16:00:00,huistenbosch,mauritshuis,1020
+2018-11-17T16:00:00,huistenbosch,familiepark drievliet,2580
+2018-11-17T16:00:00,huistenbosch,Museum Voorlinden,-1
+2018-11-17T16:00:00,Museum Voorlinden,centraal,-1
+2018-11-17T16:00:00,Museum Voorlinden,maduradam,-1
+2018-11-17T16:00:00,Museum Voorlinden,gemeentemuseume,-1
+2018-11-17T16:00:00,Museum Voorlinden,kijkduin,-1
+2018-11-17T16:00:00,Museum Voorlinden,de uithof,-1
+2018-11-17T16:00:00,Museum Voorlinden,haagsemarkt,-1
+2018-11-17T16:00:00,Museum Voorlinden,mauritshuis,-1
+2018-11-17T16:00:00,Museum Voorlinden,familiepark drievliet,-1
+2018-11-17T16:00:00,Museum Voorlinden,huistenbosch,-1
+2018-11-17T16:30:00,centraal,maduradam,1020
+2018-11-17T16:30:00,centraal,gemeentemuseume,1620
+2018-11-17T16:30:00,centraal,kijkduin,2760
+2018-11-17T16:30:00,centraal,de uithof,2340
+2018-11-17T16:30:00,centraal,haagsemarkt,1200
+2018-11-17T16:30:00,centraal,mauritshuis,900
+2018-11-17T16:30:00,centraal,familiepark drievliet,2160
+2018-11-17T16:30:00,centraal,huistenbosch,840
+2018-11-17T16:30:00,centraal,Museum Voorlinden,-1
+2018-11-17T16:30:00,maduradam,centraal,1140
+2018-11-17T16:30:00,maduradam,gemeentemuseume,2520
+2018-11-17T16:30:00,maduradam,kijkduin,3360
+2018-11-17T16:30:00,maduradam,de uithof,3120
+2018-11-17T16:30:00,maduradam,haagsemarkt,2040
+2018-11-17T16:30:00,maduradam,mauritshuis,1200
+2018-11-17T16:30:00,maduradam,familiepark drievliet,3360
+2018-11-17T16:30:00,maduradam,huistenbosch,1260
+2018-11-17T16:30:00,maduradam,Museum Voorlinden,-1
+2018-11-17T16:30:00,gemeentemuseume,centraal,1680
+2018-11-17T16:30:00,gemeentemuseume,maduradam,2460
+2018-11-17T16:30:00,gemeentemuseume,kijkduin,2040
+2018-11-17T16:30:00,gemeentemuseume,de uithof,3720
+2018-11-17T16:30:00,gemeentemuseume,haagsemarkt,2640
+2018-11-17T16:30:00,gemeentemuseume,mauritshuis,1500
+2018-11-17T16:30:00,gemeentemuseume,familiepark drievliet,3540
+2018-11-17T16:30:00,gemeentemuseume,huistenbosch,1980
+2018-11-17T16:30:00,gemeentemuseume,Museum Voorlinden,-1
+2018-11-17T16:30:00,kijkduin,centraal,2520
+2018-11-17T16:30:00,kijkduin,maduradam,3480
+2018-11-17T16:30:00,kijkduin,gemeentemuseume,2040
+2018-11-17T16:30:00,kijkduin,de uithof,3000
+2018-11-17T16:30:00,kijkduin,haagsemarkt,3060
+2018-11-17T16:30:00,kijkduin,mauritshuis,2640
+2018-11-17T16:30:00,kijkduin,familiepark drievliet,4260
+2018-11-17T16:30:00,kijkduin,huistenbosch,3180
+2018-11-17T16:30:00,kijkduin,Museum Voorlinden,-1
+2018-11-17T16:30:00,de uithof,centraal,2280
+2018-11-17T16:30:00,de uithof,maduradam,2880
+2018-11-17T16:30:00,de uithof,gemeentemuseume,3660
+2018-11-17T16:30:00,de uithof,kijkduin,2400
+2018-11-17T16:30:00,de uithof,haagsemarkt,2160
+2018-11-17T16:30:00,de uithof,mauritshuis,2400
+2018-11-17T16:30:00,de uithof,familiepark drievliet,4020
+2018-11-17T16:30:00,de uithof,huistenbosch,2820
+2018-11-17T16:30:00,de uithof,Museum Voorlinden,-1
+2018-11-17T16:30:00,haagsemarkt,centraal,1260
+2018-11-17T16:30:00,haagsemarkt,maduradam,2160
+2018-11-17T16:30:00,haagsemarkt,gemeentemuseume,2520
+2018-11-17T16:30:00,haagsemarkt,kijkduin,2340
+2018-11-17T16:30:00,haagsemarkt,de uithof,2160
+2018-11-17T16:30:00,haagsemarkt,mauritshuis,1380
+2018-11-17T16:30:00,haagsemarkt,familiepark drievliet,2580
+2018-11-17T16:30:00,haagsemarkt,huistenbosch,1260
+2018-11-17T16:30:00,haagsemarkt,Museum Voorlinden,-1
+2018-11-17T16:30:00,mauritshuis,centraal,960
+2018-11-17T16:30:00,mauritshuis,maduradam,1140
+2018-11-17T16:30:00,mauritshuis,gemeentemuseume,1500
+2018-11-17T16:30:00,mauritshuis,kijkduin,2520
+2018-11-17T16:30:00,mauritshuis,de uithof,2400
+2018-11-17T16:30:00,mauritshuis,haagsemarkt,1320
+2018-11-17T16:30:00,mauritshuis,familiepark drievliet,2280
+2018-11-17T16:30:00,mauritshuis,huistenbosch,960
+2018-11-17T16:30:00,mauritshuis,Museum Voorlinden,-1
+2018-11-17T16:30:00,familiepark drievliet,centraal,2520
+2018-11-17T16:30:00,familiepark drievliet,maduradam,3120
+2018-11-17T16:30:00,familiepark drievliet,gemeentemuseume,3300
+2018-11-17T16:30:00,familiepark drievliet,kijkduin,3840
+2018-11-17T16:30:00,familiepark drievliet,de uithof,3900
+2018-11-17T16:30:00,familiepark drievliet,haagsemarkt,2640
+2018-11-17T16:30:00,familiepark drievliet,mauritshuis,2100
+2018-11-17T16:30:00,familiepark drievliet,huistenbosch,2820
+2018-11-17T16:30:00,familiepark drievliet,Museum Voorlinden,-1
+2018-11-17T16:30:00,huistenbosch,centraal,600
+2018-11-17T16:30:00,huistenbosch,maduradam,1140
+2018-11-17T16:30:00,huistenbosch,gemeentemuseume,1920
+2018-11-17T16:30:00,huistenbosch,kijkduin,2760
+2018-11-17T16:30:00,huistenbosch,de uithof,2520
+2018-11-17T16:30:00,huistenbosch,haagsemarkt,1260
+2018-11-17T16:30:00,huistenbosch,mauritshuis,1020
+2018-11-17T16:30:00,huistenbosch,familiepark drievliet,2760
+2018-11-17T16:30:00,huistenbosch,Museum Voorlinden,-1
+2018-11-17T16:30:00,Museum Voorlinden,centraal,-1
+2018-11-17T16:30:00,Museum Voorlinden,maduradam,-1
+2018-11-17T16:30:00,Museum Voorlinden,gemeentemuseume,-1
+2018-11-17T16:30:00,Museum Voorlinden,kijkduin,-1
+2018-11-17T16:30:00,Museum Voorlinden,de uithof,-1
+2018-11-17T16:30:00,Museum Voorlinden,haagsemarkt,-1
+2018-11-17T16:30:00,Museum Voorlinden,mauritshuis,-1
+2018-11-17T16:30:00,Museum Voorlinden,familiepark drievliet,-1
+2018-11-17T16:30:00,Museum Voorlinden,huistenbosch,-1
+2018-11-17T17:00:00,centraal,maduradam,1020
+2018-11-17T17:00:00,centraal,gemeentemuseume,1500
+2018-11-17T17:00:00,centraal,kijkduin,2760
+2018-11-17T17:00:00,centraal,de uithof,2340
+2018-11-17T17:00:00,centraal,haagsemarkt,1200
+2018-11-17T17:00:00,centraal,mauritshuis,720
+2018-11-17T17:00:00,centraal,familiepark drievliet,2160
+2018-11-17T17:00:00,centraal,huistenbosch,840
+2018-11-17T17:00:00,centraal,Museum Voorlinden,-1
+2018-11-17T17:00:00,maduradam,centraal,1140
+2018-11-17T17:00:00,maduradam,gemeentemuseume,2520
+2018-11-17T17:00:00,maduradam,kijkduin,3540
+2018-11-17T17:00:00,maduradam,de uithof,3120
+2018-11-17T17:00:00,maduradam,haagsemarkt,2040
+2018-11-17T17:00:00,maduradam,mauritshuis,1200
+2018-11-17T17:00:00,maduradam,familiepark drievliet,3120
+2018-11-17T17:00:00,maduradam,huistenbosch,1440
+2018-11-17T17:00:00,maduradam,Museum Voorlinden,-1
+2018-11-17T17:00:00,gemeentemuseume,centraal,1680
+2018-11-17T17:00:00,gemeentemuseume,maduradam,2760
+2018-11-17T17:00:00,gemeentemuseume,kijkduin,2040
+2018-11-17T17:00:00,gemeentemuseume,de uithof,3720
+2018-11-17T17:00:00,gemeentemuseume,haagsemarkt,2460
+2018-11-17T17:00:00,gemeentemuseume,mauritshuis,1500
+2018-11-17T17:00:00,gemeentemuseume,familiepark drievliet,3420
+2018-11-17T17:00:00,gemeentemuseume,huistenbosch,1980
+2018-11-17T17:00:00,gemeentemuseume,Museum Voorlinden,-1
+2018-11-17T17:00:00,kijkduin,centraal,2460
+2018-11-17T17:00:00,kijkduin,maduradam,3180
+2018-11-17T17:00:00,kijkduin,gemeentemuseume,1860
+2018-11-17T17:00:00,kijkduin,de uithof,2940
+2018-11-17T17:00:00,kijkduin,haagsemarkt,3060
+2018-11-17T17:00:00,kijkduin,mauritshuis,2340
+2018-11-17T17:00:00,kijkduin,familiepark drievliet,3600
+2018-11-17T17:00:00,kijkduin,huistenbosch,2700
+2018-11-17T17:00:00,kijkduin,Museum Voorlinden,-1
+2018-11-17T17:00:00,de uithof,centraal,2340
+2018-11-17T17:00:00,de uithof,maduradam,3060
+2018-11-17T17:00:00,de uithof,gemeentemuseume,3660
+2018-11-17T17:00:00,de uithof,kijkduin,2580
+2018-11-17T17:00:00,de uithof,haagsemarkt,2100
+2018-11-17T17:00:00,de uithof,mauritshuis,2400
+2018-11-17T17:00:00,de uithof,familiepark drievliet,3900
+2018-11-17T17:00:00,de uithof,huistenbosch,2640
+2018-11-17T17:00:00,de uithof,Museum Voorlinden,-1
+2018-11-17T17:00:00,haagsemarkt,centraal,1260
+2018-11-17T17:00:00,haagsemarkt,maduradam,2160
+2018-11-17T17:00:00,haagsemarkt,gemeentemuseume,2760
+2018-11-17T17:00:00,haagsemarkt,kijkduin,2160
+2018-11-17T17:00:00,haagsemarkt,de uithof,2100
+2018-11-17T17:00:00,haagsemarkt,mauritshuis,1380
+2018-11-17T17:00:00,haagsemarkt,familiepark drievliet,2460
+2018-11-17T17:00:00,haagsemarkt,huistenbosch,1260
+2018-11-17T17:00:00,haagsemarkt,Museum Voorlinden,-1
+2018-11-17T17:00:00,mauritshuis,centraal,840
+2018-11-17T17:00:00,mauritshuis,maduradam,1140
+2018-11-17T17:00:00,mauritshuis,gemeentemuseume,1380
+2018-11-17T17:00:00,mauritshuis,kijkduin,2520
+2018-11-17T17:00:00,mauritshuis,de uithof,2400
+2018-11-17T17:00:00,mauritshuis,haagsemarkt,1320
+2018-11-17T17:00:00,mauritshuis,familiepark drievliet,2220
+2018-11-17T17:00:00,mauritshuis,huistenbosch,960
+2018-11-17T17:00:00,mauritshuis,Museum Voorlinden,-1
+2018-11-17T17:00:00,familiepark drievliet,centraal,2340
+2018-11-17T17:00:00,familiepark drievliet,maduradam,3240
+2018-11-17T17:00:00,familiepark drievliet,gemeentemuseume,3840
+2018-11-17T17:00:00,familiepark drievliet,kijkduin,3840
+2018-11-17T17:00:00,familiepark drievliet,de uithof,3960
+2018-11-17T17:00:00,familiepark drievliet,haagsemarkt,2760
+2018-11-17T17:00:00,familiepark drievliet,mauritshuis,2160
+2018-11-17T17:00:00,familiepark drievliet,huistenbosch,3120
+2018-11-17T17:00:00,familiepark drievliet,Museum Voorlinden,-1
+2018-11-17T17:00:00,huistenbosch,centraal,600
+2018-11-17T17:00:00,huistenbosch,maduradam,1140
+2018-11-17T17:00:00,huistenbosch,gemeentemuseume,1920
+2018-11-17T17:00:00,huistenbosch,kijkduin,2940
+2018-11-17T17:00:00,huistenbosch,de uithof,2520
+2018-11-17T17:00:00,huistenbosch,haagsemarkt,1260
+2018-11-17T17:00:00,huistenbosch,mauritshuis,1020
+2018-11-17T17:00:00,huistenbosch,familiepark drievliet,2520
+2018-11-17T17:00:00,huistenbosch,Museum Voorlinden,-1
+2018-11-17T17:00:00,Museum Voorlinden,centraal,-1
+2018-11-17T17:00:00,Museum Voorlinden,maduradam,-1
+2018-11-17T17:00:00,Museum Voorlinden,gemeentemuseume,-1
+2018-11-17T17:00:00,Museum Voorlinden,kijkduin,-1
+2018-11-17T17:00:00,Museum Voorlinden,de uithof,-1
+2018-11-17T17:00:00,Museum Voorlinden,haagsemarkt,-1
+2018-11-17T17:00:00,Museum Voorlinden,mauritshuis,-1
+2018-11-17T17:00:00,Museum Voorlinden,familiepark drievliet,-1
+2018-11-17T17:00:00,Museum Voorlinden,huistenbosch,-1
+2018-11-17T17:30:00,centraal,maduradam,1320
+2018-11-17T17:30:00,centraal,gemeentemuseume,1500
+2018-11-17T17:30:00,centraal,kijkduin,2760
+2018-11-17T17:30:00,centraal,de uithof,2340
+2018-11-17T17:30:00,centraal,haagsemarkt,1500
+2018-11-17T17:30:00,centraal,mauritshuis,900
+2018-11-17T17:30:00,centraal,familiepark drievliet,2160
+2018-11-17T17:30:00,centraal,huistenbosch,660
+2018-11-17T17:30:00,centraal,Museum Voorlinden,-1
+2018-11-17T17:30:00,maduradam,centraal,1200
+2018-11-17T17:30:00,maduradam,gemeentemuseume,2280
+2018-11-17T17:30:00,maduradam,kijkduin,3480
+2018-11-17T17:30:00,maduradam,de uithof,3480
+2018-11-17T17:30:00,maduradam,haagsemarkt,2040
+2018-11-17T17:30:00,maduradam,mauritshuis,1200
+2018-11-17T17:30:00,maduradam,familiepark drievliet,3240
+2018-11-17T17:30:00,maduradam,huistenbosch,1980
+2018-11-17T17:30:00,maduradam,Museum Voorlinden,-1
+2018-11-17T17:30:00,gemeentemuseume,centraal,1560
+2018-11-17T17:30:00,gemeentemuseume,maduradam,2700
+2018-11-17T17:30:00,gemeentemuseume,kijkduin,1800
+2018-11-17T17:30:00,gemeentemuseume,de uithof,3900
+2018-11-17T17:30:00,gemeentemuseume,haagsemarkt,2460
+2018-11-17T17:30:00,gemeentemuseume,mauritshuis,1440
+2018-11-17T17:30:00,gemeentemuseume,familiepark drievliet,3300
+2018-11-17T17:30:00,gemeentemuseume,huistenbosch,1800
+2018-11-17T17:30:00,gemeentemuseume,Museum Voorlinden,-1
+2018-11-17T17:30:00,kijkduin,centraal,2460
+2018-11-17T17:30:00,kijkduin,maduradam,3120
+2018-11-17T17:30:00,kijkduin,gemeentemuseume,1860
+2018-11-17T17:30:00,kijkduin,de uithof,3060
+2018-11-17T17:30:00,kijkduin,haagsemarkt,3000
+2018-11-17T17:30:00,kijkduin,mauritshuis,2340
+2018-11-17T17:30:00,kijkduin,familiepark drievliet,3600
+2018-11-17T17:30:00,kijkduin,huistenbosch,2700
+2018-11-17T17:30:00,kijkduin,Museum Voorlinden,-1
+2018-11-17T17:30:00,de uithof,centraal,2280
+2018-11-17T17:30:00,de uithof,maduradam,3060
+2018-11-17T17:30:00,de uithof,gemeentemuseume,3660
+2018-11-17T17:30:00,de uithof,kijkduin,2700
+2018-11-17T17:30:00,de uithof,haagsemarkt,2100
+2018-11-17T17:30:00,de uithof,mauritshuis,2400
+2018-11-17T17:30:00,de uithof,familiepark drievliet,3900
+2018-11-17T17:30:00,de uithof,huistenbosch,2640
+2018-11-17T17:30:00,de uithof,Museum Voorlinden,-1
+2018-11-17T17:30:00,haagsemarkt,centraal,1200
+2018-11-17T17:30:00,haagsemarkt,maduradam,2280
+2018-11-17T17:30:00,haagsemarkt,gemeentemuseume,2400
+2018-11-17T17:30:00,haagsemarkt,kijkduin,2820
+2018-11-17T17:30:00,haagsemarkt,de uithof,2100
+2018-11-17T17:30:00,haagsemarkt,mauritshuis,1320
+2018-11-17T17:30:00,haagsemarkt,familiepark drievliet,2520
+2018-11-17T17:30:00,haagsemarkt,huistenbosch,1260
+2018-11-17T17:30:00,haagsemarkt,Museum Voorlinden,-1
+2018-11-17T17:30:00,mauritshuis,centraal,960
+2018-11-17T17:30:00,mauritshuis,maduradam,1140
+2018-11-17T17:30:00,mauritshuis,gemeentemuseume,1380
+2018-11-17T17:30:00,mauritshuis,kijkduin,2520
+2018-11-17T17:30:00,mauritshuis,de uithof,2400
+2018-11-17T17:30:00,mauritshuis,haagsemarkt,1320
+2018-11-17T17:30:00,mauritshuis,familiepark drievliet,2220
+2018-11-17T17:30:00,mauritshuis,huistenbosch,1020
+2018-11-17T17:30:00,mauritshuis,Museum Voorlinden,-1
+2018-11-17T17:30:00,familiepark drievliet,centraal,2280
+2018-11-17T17:30:00,familiepark drievliet,maduradam,3480
+2018-11-17T17:30:00,familiepark drievliet,gemeentemuseume,3660
+2018-11-17T17:30:00,familiepark drievliet,kijkduin,3480
+2018-11-17T17:30:00,familiepark drievliet,de uithof,4080
+2018-11-17T17:30:00,familiepark drievliet,haagsemarkt,2760
+2018-11-17T17:30:00,familiepark drievliet,mauritshuis,2100
+2018-11-17T17:30:00,familiepark drievliet,huistenbosch,2760
+2018-11-17T17:30:00,familiepark drievliet,Museum Voorlinden,-1
+2018-11-17T17:30:00,huistenbosch,centraal,600
+2018-11-17T17:30:00,huistenbosch,maduradam,1740
+2018-11-17T17:30:00,huistenbosch,gemeentemuseume,1860
+2018-11-17T17:30:00,huistenbosch,kijkduin,2880
+2018-11-17T17:30:00,huistenbosch,de uithof,2700
+2018-11-17T17:30:00,huistenbosch,haagsemarkt,1260
+2018-11-17T17:30:00,huistenbosch,mauritshuis,1020
+2018-11-17T17:30:00,huistenbosch,familiepark drievliet,2820
+2018-11-17T17:30:00,huistenbosch,Museum Voorlinden,-1
+2018-11-17T17:30:00,Museum Voorlinden,centraal,-1
+2018-11-17T17:30:00,Museum Voorlinden,maduradam,-1
+2018-11-17T17:30:00,Museum Voorlinden,gemeentemuseume,-1
+2018-11-17T17:30:00,Museum Voorlinden,kijkduin,-1
+2018-11-17T17:30:00,Museum Voorlinden,de uithof,-1
+2018-11-17T17:30:00,Museum Voorlinden,haagsemarkt,-1
+2018-11-17T17:30:00,Museum Voorlinden,mauritshuis,-1
+2018-11-17T17:30:00,Museum Voorlinden,familiepark drievliet,-1
+2018-11-17T17:30:00,Museum Voorlinden,huistenbosch,-1
+2018-11-17T18:00:00,centraal,maduradam,1320
+2018-11-17T18:00:00,centraal,gemeentemuseume,1500
+2018-11-17T18:00:00,centraal,kijkduin,2760
+2018-11-17T18:00:00,centraal,de uithof,2340
+2018-11-17T18:00:00,centraal,haagsemarkt,1500
+2018-11-17T18:00:00,centraal,mauritshuis,900
+2018-11-17T18:00:00,centraal,familiepark drievliet,2160
+2018-11-17T18:00:00,centraal,huistenbosch,660
+2018-11-17T18:00:00,centraal,Museum Voorlinden,-1
+2018-11-17T18:00:00,maduradam,centraal,1200
+2018-11-17T18:00:00,maduradam,gemeentemuseume,2640
+2018-11-17T18:00:00,maduradam,kijkduin,3180
+2018-11-17T18:00:00,maduradam,de uithof,3180
+2018-11-17T18:00:00,maduradam,haagsemarkt,2640
+2018-11-17T18:00:00,maduradam,mauritshuis,1260
+2018-11-17T18:00:00,maduradam,familiepark drievliet,3120
+2018-11-17T18:00:00,maduradam,huistenbosch,1980
+2018-11-17T18:00:00,maduradam,Museum Voorlinden,-1
+2018-11-17T18:00:00,gemeentemuseume,centraal,1560
+2018-11-17T18:00:00,gemeentemuseume,maduradam,2700
+2018-11-17T18:00:00,gemeentemuseume,kijkduin,1800
+2018-11-17T18:00:00,gemeentemuseume,de uithof,3900
+2018-11-17T18:00:00,gemeentemuseume,haagsemarkt,2520
+2018-11-17T18:00:00,gemeentemuseume,mauritshuis,1440
+2018-11-17T18:00:00,gemeentemuseume,familiepark drievliet,3300
+2018-11-17T18:00:00,gemeentemuseume,huistenbosch,1800
+2018-11-17T18:00:00,gemeentemuseume,Museum Voorlinden,-1
+2018-11-17T18:00:00,kijkduin,centraal,2460
+2018-11-17T18:00:00,kijkduin,maduradam,3780
+2018-11-17T18:00:00,kijkduin,gemeentemuseume,1860
+2018-11-17T18:00:00,kijkduin,de uithof,2940
+2018-11-17T18:00:00,kijkduin,haagsemarkt,2760
+2018-11-17T18:00:00,kijkduin,mauritshuis,2340
+2018-11-17T18:00:00,kijkduin,familiepark drievliet,3600
+2018-11-17T18:00:00,kijkduin,huistenbosch,2700
+2018-11-17T18:00:00,kijkduin,Museum Voorlinden,-1
+2018-11-17T18:00:00,de uithof,centraal,2280
+2018-11-17T18:00:00,de uithof,maduradam,3120
+2018-11-17T18:00:00,de uithof,gemeentemuseume,3720
+2018-11-17T18:00:00,de uithof,kijkduin,2760
+2018-11-17T18:00:00,de uithof,haagsemarkt,2100
+2018-11-17T18:00:00,de uithof,mauritshuis,2400
+2018-11-17T18:00:00,de uithof,familiepark drievliet,3960
+2018-11-17T18:00:00,de uithof,huistenbosch,2700
+2018-11-17T18:00:00,de uithof,Museum Voorlinden,-1
+2018-11-17T18:00:00,haagsemarkt,centraal,1260
+2018-11-17T18:00:00,haagsemarkt,maduradam,2280
+2018-11-17T18:00:00,haagsemarkt,gemeentemuseume,2880
+2018-11-17T18:00:00,haagsemarkt,kijkduin,2880
+2018-11-17T18:00:00,haagsemarkt,de uithof,2100
+2018-11-17T18:00:00,haagsemarkt,mauritshuis,1320
+2018-11-17T18:00:00,haagsemarkt,familiepark drievliet,2520
+2018-11-17T18:00:00,haagsemarkt,huistenbosch,1260
+2018-11-17T18:00:00,haagsemarkt,Museum Voorlinden,-1
+2018-11-17T18:00:00,mauritshuis,centraal,840
+2018-11-17T18:00:00,mauritshuis,maduradam,1140
+2018-11-17T18:00:00,mauritshuis,gemeentemuseume,1380
+2018-11-17T18:00:00,mauritshuis,kijkduin,2520
+2018-11-17T18:00:00,mauritshuis,de uithof,2400
+2018-11-17T18:00:00,mauritshuis,haagsemarkt,1320
+2018-11-17T18:00:00,mauritshuis,familiepark drievliet,2220
+2018-11-17T18:00:00,mauritshuis,huistenbosch,1020
+2018-11-17T18:00:00,mauritshuis,Museum Voorlinden,-1
+2018-11-17T18:00:00,familiepark drievliet,centraal,2100
+2018-11-17T18:00:00,familiepark drievliet,maduradam,3300
+2018-11-17T18:00:00,familiepark drievliet,gemeentemuseume,3420
+2018-11-17T18:00:00,familiepark drievliet,kijkduin,3480
+2018-11-17T18:00:00,familiepark drievliet,de uithof,4020
+2018-11-17T18:00:00,familiepark drievliet,haagsemarkt,3120
+2018-11-17T18:00:00,familiepark drievliet,mauritshuis,2160
+2018-11-17T18:00:00,familiepark drievliet,huistenbosch,2340
+2018-11-17T18:00:00,familiepark drievliet,Museum Voorlinden,-1
+2018-11-17T18:00:00,huistenbosch,centraal,660
+2018-11-17T18:00:00,huistenbosch,maduradam,1080
+2018-11-17T18:00:00,huistenbosch,gemeentemuseume,1800
+2018-11-17T18:00:00,huistenbosch,kijkduin,3000
+2018-11-17T18:00:00,huistenbosch,de uithof,2700
+2018-11-17T18:00:00,huistenbosch,haagsemarkt,1260
+2018-11-17T18:00:00,huistenbosch,mauritshuis,1020
+2018-11-17T18:00:00,huistenbosch,familiepark drievliet,2640
+2018-11-17T18:00:00,huistenbosch,Museum Voorlinden,-1
+2018-11-17T18:00:00,Museum Voorlinden,centraal,-1
+2018-11-17T18:00:00,Museum Voorlinden,maduradam,-1
+2018-11-17T18:00:00,Museum Voorlinden,gemeentemuseume,-1
+2018-11-17T18:00:00,Museum Voorlinden,kijkduin,-1
+2018-11-17T18:00:00,Museum Voorlinden,de uithof,-1
+2018-11-17T18:00:00,Museum Voorlinden,haagsemarkt,-1
+2018-11-17T18:00:00,Museum Voorlinden,mauritshuis,-1
+2018-11-17T18:00:00,Museum Voorlinden,familiepark drievliet,-1
+2018-11-17T18:00:00,Museum Voorlinden,huistenbosch,-1
+2018-11-17T10:00:00,centraal,scheveningen,1740
+2018-11-17T10:00:00,maduradam,scheveningen,1260
+2018-11-17T10:00:00,gemeentemuseume,scheveningen,1440
+2018-11-17T10:00:00,kijkduin,scheveningen,3480
+2018-11-17T10:00:00,de uithof,scheveningen,3540
+2018-11-17T10:00:00,haagsemarkt,scheveningen,2220
+2018-11-17T10:00:00,mauritshuis,scheveningen,1500
+2018-11-17T10:00:00,familiepark drievliet,scheveningen,3000
+2018-11-17T10:00:00,huistenbosch,scheveningen,2100
+2018-11-17T10:00:00,Museum Voorlinden,scheveningen,-1
+2018-11-17T10:00:00,scheveningen,centraal,1500
+2018-11-17T10:00:00,scheveningen,maduradam,1260
+2018-11-17T10:00:00,scheveningen,gemeentemuseume,1620
+2018-11-17T10:00:00,scheveningen,kijkduin,4440
+2018-11-17T10:00:00,scheveningen,de uithof,3420
+2018-11-17T10:00:00,scheveningen,haagsemarkt,2280
+2018-11-17T10:00:00,scheveningen,mauritshuis,1740
+2018-11-17T10:00:00,scheveningen,familiepark drievliet,2880
+2018-11-17T10:00:00,scheveningen,huistenbosch,2460
+2018-11-17T10:00:00,scheveningen,Museum Voorlinden,-1
+2018-11-17T10:30:00,centraal,scheveningen,1740
+2018-11-17T10:30:00,maduradam,scheveningen,1260
+2018-11-17T10:30:00,gemeentemuseume,scheveningen,1440
+2018-11-17T10:30:00,kijkduin,scheveningen,3480
+2018-11-17T10:30:00,de uithof,scheveningen,3540
+2018-11-17T10:30:00,haagsemarkt,scheveningen,2580
+2018-11-17T10:30:00,mauritshuis,scheveningen,1500
+2018-11-17T10:30:00,familiepark drievliet,scheveningen,3000
+2018-11-17T10:30:00,huistenbosch,scheveningen,2100
+2018-11-17T10:30:00,Museum Voorlinden,scheveningen,-1
+2018-11-17T10:30:00,scheveningen,centraal,1500
+2018-11-17T10:30:00,scheveningen,maduradam,1260
+2018-11-17T10:30:00,scheveningen,gemeentemuseume,1620
+2018-11-17T10:30:00,scheveningen,kijkduin,4440
+2018-11-17T10:30:00,scheveningen,de uithof,3420
+2018-11-17T10:30:00,scheveningen,haagsemarkt,2280
+2018-11-17T10:30:00,scheveningen,mauritshuis,1740
+2018-11-17T10:30:00,scheveningen,familiepark drievliet,2880
+2018-11-17T10:30:00,scheveningen,huistenbosch,2460
+2018-11-17T10:30:00,scheveningen,Museum Voorlinden,-1
+2018-11-17T11:00:00,centraal,scheveningen,1740
+2018-11-17T11:00:00,maduradam,scheveningen,1260
+2018-11-17T11:00:00,gemeentemuseume,scheveningen,1440
+2018-11-17T11:00:00,kijkduin,scheveningen,3720
+2018-11-17T11:00:00,de uithof,scheveningen,3300
+2018-11-17T11:00:00,haagsemarkt,scheveningen,2640
+2018-11-17T11:00:00,mauritshuis,scheveningen,1500
+2018-11-17T11:00:00,familiepark drievliet,scheveningen,3000
+2018-11-17T11:00:00,huistenbosch,scheveningen,2160
+2018-11-17T11:00:00,Museum Voorlinden,scheveningen,-1
+2018-11-17T11:00:00,scheveningen,centraal,1860
+2018-11-17T11:00:00,scheveningen,maduradam,1260
+2018-11-17T11:00:00,scheveningen,gemeentemuseume,1680
+2018-11-17T11:00:00,scheveningen,kijkduin,5040
+2018-11-17T11:00:00,scheveningen,de uithof,3480
+2018-11-17T11:00:00,scheveningen,haagsemarkt,2340
+2018-11-17T11:00:00,scheveningen,mauritshuis,1740
+2018-11-17T11:00:00,scheveningen,familiepark drievliet,2940
+2018-11-17T11:00:00,scheveningen,huistenbosch,2520
+2018-11-17T11:00:00,scheveningen,Museum Voorlinden,-1
+2018-11-17T11:30:00,centraal,scheveningen,1440
+2018-11-17T11:30:00,maduradam,scheveningen,960
+2018-11-17T11:30:00,gemeentemuseume,scheveningen,1500
+2018-11-17T11:30:00,kijkduin,scheveningen,3720
+2018-11-17T11:30:00,de uithof,scheveningen,3300
+2018-11-17T11:30:00,haagsemarkt,scheveningen,2580
+2018-11-17T11:30:00,mauritshuis,scheveningen,1500
+2018-11-17T11:30:00,familiepark drievliet,scheveningen,3000
+2018-11-17T11:30:00,huistenbosch,scheveningen,1560
+2018-11-17T11:30:00,Museum Voorlinden,scheveningen,-1
+2018-11-17T11:30:00,scheveningen,centraal,2040
+2018-11-17T11:30:00,scheveningen,maduradam,1380
+2018-11-17T11:30:00,scheveningen,gemeentemuseume,1680
+2018-11-17T11:30:00,scheveningen,kijkduin,4980
+2018-11-17T11:30:00,scheveningen,de uithof,3900
+2018-11-17T11:30:00,scheveningen,haagsemarkt,2280
+2018-11-17T11:30:00,scheveningen,mauritshuis,1920
+2018-11-17T11:30:00,scheveningen,familiepark drievliet,2940
+2018-11-17T11:30:00,scheveningen,huistenbosch,2640
+2018-11-17T11:30:00,scheveningen,Museum Voorlinden,-1
+2018-11-17T12:00:00,centraal,scheveningen,1440
+2018-11-17T12:00:00,maduradam,scheveningen,960
+2018-11-17T12:00:00,gemeentemuseume,scheveningen,1500
+2018-11-17T12:00:00,kijkduin,scheveningen,3720
+2018-11-17T12:00:00,de uithof,scheveningen,3300
+2018-11-17T12:00:00,haagsemarkt,scheveningen,2580
+2018-11-17T12:00:00,mauritshuis,scheveningen,1500
+2018-11-17T12:00:00,familiepark drievliet,scheveningen,3000
+2018-11-17T12:00:00,huistenbosch,scheveningen,1560
+2018-11-17T12:00:00,Museum Voorlinden,scheveningen,-1
+2018-11-17T12:00:00,scheveningen,centraal,1500
+2018-11-17T12:00:00,scheveningen,maduradam,1140
+2018-11-17T12:00:00,scheveningen,gemeentemuseume,1680
+2018-11-17T12:00:00,scheveningen,kijkduin,3720
+2018-11-17T12:00:00,scheveningen,de uithof,3900
+2018-11-17T12:00:00,scheveningen,haagsemarkt,2280
+2018-11-17T12:00:00,scheveningen,mauritshuis,1560
+2018-11-17T12:00:00,scheveningen,familiepark drievliet,2940
+2018-11-17T12:00:00,scheveningen,huistenbosch,1620
+2018-11-17T12:00:00,scheveningen,Museum Voorlinden,-1
+2018-11-17T12:30:00,centraal,scheveningen,1440
+2018-11-17T12:30:00,maduradam,scheveningen,960
+2018-11-17T12:30:00,gemeentemuseume,scheveningen,1500
+2018-11-17T12:30:00,kijkduin,scheveningen,3720
+2018-11-17T12:30:00,de uithof,scheveningen,3300
+2018-11-17T12:30:00,haagsemarkt,scheveningen,2580
+2018-11-17T12:30:00,mauritshuis,scheveningen,1500
+2018-11-17T12:30:00,familiepark drievliet,scheveningen,3000
+2018-11-17T12:30:00,huistenbosch,scheveningen,1560
+2018-11-17T12:30:00,Museum Voorlinden,scheveningen,-1
+2018-11-17T12:30:00,scheveningen,centraal,1500
+2018-11-17T12:30:00,scheveningen,maduradam,1140
+2018-11-17T12:30:00,scheveningen,gemeentemuseume,1680
+2018-11-17T12:30:00,scheveningen,kijkduin,3720
+2018-11-17T12:30:00,scheveningen,de uithof,3900
+2018-11-17T12:30:00,scheveningen,haagsemarkt,2340
+2018-11-17T12:30:00,scheveningen,mauritshuis,1560
+2018-11-17T12:30:00,scheveningen,familiepark drievliet,2940
+2018-11-17T12:30:00,scheveningen,huistenbosch,1620
+2018-11-17T12:30:00,scheveningen,Museum Voorlinden,-1
+2018-11-17T13:00:00,centraal,scheveningen,1440
+2018-11-17T13:00:00,maduradam,scheveningen,960
+2018-11-17T13:00:00,gemeentemuseume,scheveningen,1500
+2018-11-17T13:00:00,kijkduin,scheveningen,3720
+2018-11-17T13:00:00,de uithof,scheveningen,3300
+2018-11-17T13:00:00,haagsemarkt,scheveningen,2580
+2018-11-17T13:00:00,mauritshuis,scheveningen,1500
+2018-11-17T13:00:00,familiepark drievliet,scheveningen,3000
+2018-11-17T13:00:00,huistenbosch,scheveningen,1560
+2018-11-17T13:00:00,Museum Voorlinden,scheveningen,-1
+2018-11-17T13:00:00,scheveningen,centraal,1500
+2018-11-17T13:00:00,scheveningen,maduradam,1140
+2018-11-17T13:00:00,scheveningen,gemeentemuseume,1680
+2018-11-17T13:00:00,scheveningen,kijkduin,3720
+2018-11-17T13:00:00,scheveningen,de uithof,3900
+2018-11-17T13:00:00,scheveningen,haagsemarkt,2340
+2018-11-17T13:00:00,scheveningen,mauritshuis,1560
+2018-11-17T13:00:00,scheveningen,familiepark drievliet,2940
+2018-11-17T13:00:00,scheveningen,huistenbosch,1620
+2018-11-17T13:00:00,scheveningen,Museum Voorlinden,-1
+2018-11-17T13:30:00,centraal,scheveningen,1440
+2018-11-17T13:30:00,maduradam,scheveningen,960
+2018-11-17T13:30:00,gemeentemuseume,scheveningen,1500
+2018-11-17T13:30:00,kijkduin,scheveningen,3720
+2018-11-17T13:30:00,de uithof,scheveningen,3300
+2018-11-17T13:30:00,haagsemarkt,scheveningen,2580
+2018-11-17T13:30:00,mauritshuis,scheveningen,1500
+2018-11-17T13:30:00,familiepark drievliet,scheveningen,3000
+2018-11-17T13:30:00,huistenbosch,scheveningen,1560
+2018-11-17T13:30:00,Museum Voorlinden,scheveningen,-1
+2018-11-17T13:30:00,scheveningen,centraal,1500
+2018-11-17T13:30:00,scheveningen,maduradam,1140
+2018-11-17T13:30:00,scheveningen,gemeentemuseume,1680
+2018-11-17T13:30:00,scheveningen,kijkduin,3720
+2018-11-17T13:30:00,scheveningen,de uithof,3900
+2018-11-17T13:30:00,scheveningen,haagsemarkt,2340
+2018-11-17T13:30:00,scheveningen,mauritshuis,1560
+2018-11-17T13:30:00,scheveningen,familiepark drievliet,2940
+2018-11-17T13:30:00,scheveningen,huistenbosch,1620
+2018-11-17T13:30:00,scheveningen,Museum Voorlinden,-1
+2018-11-17T14:00:00,centraal,scheveningen,1440
+2018-11-17T14:00:00,maduradam,scheveningen,960
+2018-11-17T14:00:00,gemeentemuseume,scheveningen,1500
+2018-11-17T14:00:00,kijkduin,scheveningen,3720
+2018-11-17T14:00:00,de uithof,scheveningen,3300
+2018-11-17T14:00:00,haagsemarkt,scheveningen,2580
+2018-11-17T14:00:00,mauritshuis,scheveningen,1500
+2018-11-17T14:00:00,familiepark drievliet,scheveningen,3000
+2018-11-17T14:00:00,huistenbosch,scheveningen,1560
+2018-11-17T14:00:00,Museum Voorlinden,scheveningen,-1
+2018-11-17T14:00:00,scheveningen,centraal,1500
+2018-11-17T14:00:00,scheveningen,maduradam,1140
+2018-11-17T14:00:00,scheveningen,gemeentemuseume,1680
+2018-11-17T14:00:00,scheveningen,kijkduin,3720
+2018-11-17T14:00:00,scheveningen,de uithof,3900
+2018-11-17T14:00:00,scheveningen,haagsemarkt,2340
+2018-11-17T14:00:00,scheveningen,mauritshuis,1560
+2018-11-17T14:00:00,scheveningen,familiepark drievliet,2940
+2018-11-17T14:00:00,scheveningen,huistenbosch,1620
+2018-11-17T14:00:00,scheveningen,Museum Voorlinden,-1
+2018-11-17T14:30:00,centraal,scheveningen,1440
+2018-11-17T14:30:00,maduradam,scheveningen,960
+2018-11-17T14:30:00,gemeentemuseume,scheveningen,1500
+2018-11-17T14:30:00,kijkduin,scheveningen,3840
+2018-11-17T14:30:00,de uithof,scheveningen,3300
+2018-11-17T14:30:00,haagsemarkt,scheveningen,2460
+2018-11-17T14:30:00,mauritshuis,scheveningen,1500
+2018-11-17T14:30:00,familiepark drievliet,scheveningen,3000
+2018-11-17T14:30:00,huistenbosch,scheveningen,1560
+2018-11-17T14:30:00,Museum Voorlinden,scheveningen,-1
+2018-11-17T14:30:00,scheveningen,centraal,1500
+2018-11-17T14:30:00,scheveningen,maduradam,1140
+2018-11-17T14:30:00,scheveningen,gemeentemuseume,1680
+2018-11-17T14:30:00,scheveningen,kijkduin,3720
+2018-11-17T14:30:00,scheveningen,de uithof,3900
+2018-11-17T14:30:00,scheveningen,haagsemarkt,2640
+2018-11-17T14:30:00,scheveningen,mauritshuis,1560
+2018-11-17T14:30:00,scheveningen,familiepark drievliet,2940
+2018-11-17T14:30:00,scheveningen,huistenbosch,1620
+2018-11-17T14:30:00,scheveningen,Museum Voorlinden,-1
+2018-11-17T15:00:00,centraal,scheveningen,1440
+2018-11-17T15:00:00,maduradam,scheveningen,960
+2018-11-17T15:00:00,gemeentemuseume,scheveningen,1500
+2018-11-17T15:00:00,kijkduin,scheveningen,3780
+2018-11-17T15:00:00,de uithof,scheveningen,3300
+2018-11-17T15:00:00,haagsemarkt,scheveningen,2460
+2018-11-17T15:00:00,mauritshuis,scheveningen,1500
+2018-11-17T15:00:00,familiepark drievliet,scheveningen,3000
+2018-11-17T15:00:00,huistenbosch,scheveningen,1560
+2018-11-17T15:00:00,Museum Voorlinden,scheveningen,-1
+2018-11-17T15:00:00,scheveningen,centraal,1500
+2018-11-17T15:00:00,scheveningen,maduradam,1140
+2018-11-17T15:00:00,scheveningen,gemeentemuseume,1620
+2018-11-17T15:00:00,scheveningen,kijkduin,3720
+2018-11-17T15:00:00,scheveningen,de uithof,3900
+2018-11-17T15:00:00,scheveningen,haagsemarkt,2520
+2018-11-17T15:00:00,scheveningen,mauritshuis,1560
+2018-11-17T15:00:00,scheveningen,familiepark drievliet,2880
+2018-11-17T15:00:00,scheveningen,huistenbosch,2040
+2018-11-17T15:00:00,scheveningen,Museum Voorlinden,-1
+2018-11-17T15:30:00,centraal,scheveningen,1440
+2018-11-17T15:30:00,maduradam,scheveningen,1020
+2018-11-17T15:30:00,gemeentemuseume,scheveningen,1440
+2018-11-17T15:30:00,kijkduin,scheveningen,3780
+2018-11-17T15:30:00,de uithof,scheveningen,3300
+2018-11-17T15:30:00,haagsemarkt,scheveningen,2460
+2018-11-17T15:30:00,mauritshuis,scheveningen,1560
+2018-11-17T15:30:00,familiepark drievliet,scheveningen,2880
+2018-11-17T15:30:00,huistenbosch,scheveningen,2160
+2018-11-17T15:30:00,Museum Voorlinden,scheveningen,-1
+2018-11-17T15:30:00,scheveningen,centraal,1500
+2018-11-17T15:30:00,scheveningen,maduradam,1140
+2018-11-17T15:30:00,scheveningen,gemeentemuseume,1620
+2018-11-17T15:30:00,scheveningen,kijkduin,3720
+2018-11-17T15:30:00,scheveningen,de uithof,4020
+2018-11-17T15:30:00,scheveningen,haagsemarkt,2520
+2018-11-17T15:30:00,scheveningen,mauritshuis,1560
+2018-11-17T15:30:00,scheveningen,familiepark drievliet,2880
+2018-11-17T15:30:00,scheveningen,huistenbosch,1620
+2018-11-17T15:30:00,scheveningen,Museum Voorlinden,-1
+2018-11-17T16:00:00,centraal,scheveningen,1440
+2018-11-17T16:00:00,maduradam,scheveningen,1020
+2018-11-17T16:00:00,gemeentemuseume,scheveningen,1440
+2018-11-17T16:00:00,kijkduin,scheveningen,3840
+2018-11-17T16:00:00,de uithof,scheveningen,3300
+2018-11-17T16:00:00,haagsemarkt,scheveningen,2220
+2018-11-17T16:00:00,mauritshuis,scheveningen,1560
+2018-11-17T16:00:00,familiepark drievliet,scheveningen,2880
+2018-11-17T16:00:00,huistenbosch,scheveningen,2160
+2018-11-17T16:00:00,Museum Voorlinden,scheveningen,-1
+2018-11-17T16:00:00,scheveningen,centraal,1500
+2018-11-17T16:00:00,scheveningen,maduradam,1140
+2018-11-17T16:00:00,scheveningen,gemeentemuseume,1620
+2018-11-17T16:00:00,scheveningen,kijkduin,3900
+2018-11-17T16:00:00,scheveningen,de uithof,3480
+2018-11-17T16:00:00,scheveningen,haagsemarkt,2400
+2018-11-17T16:00:00,scheveningen,mauritshuis,1560
+2018-11-17T16:00:00,scheveningen,familiepark drievliet,2880
+2018-11-17T16:00:00,scheveningen,huistenbosch,1620
+2018-11-17T16:00:00,scheveningen,Museum Voorlinden,-1
+2018-11-17T16:30:00,centraal,scheveningen,1440
+2018-11-17T16:30:00,maduradam,scheveningen,1020
+2018-11-17T16:30:00,gemeentemuseume,scheveningen,1440
+2018-11-17T16:30:00,kijkduin,scheveningen,3900
+2018-11-17T16:30:00,de uithof,scheveningen,3300
+2018-11-17T16:30:00,haagsemarkt,scheveningen,2580
+2018-11-17T16:30:00,mauritshuis,scheveningen,1560
+2018-11-17T16:30:00,familiepark drievliet,scheveningen,2880
+2018-11-17T16:30:00,huistenbosch,scheveningen,1560
+2018-11-17T16:30:00,Museum Voorlinden,scheveningen,-1
+2018-11-17T16:30:00,scheveningen,centraal,1500
+2018-11-17T16:30:00,scheveningen,maduradam,1140
+2018-11-17T16:30:00,scheveningen,gemeentemuseume,1560
+2018-11-17T16:30:00,scheveningen,kijkduin,3840
+2018-11-17T16:30:00,scheveningen,de uithof,3480
+2018-11-17T16:30:00,scheveningen,haagsemarkt,2400
+2018-11-17T16:30:00,scheveningen,mauritshuis,1560
+2018-11-17T16:30:00,scheveningen,familiepark drievliet,2880
+2018-11-17T16:30:00,scheveningen,huistenbosch,1680
+2018-11-17T16:30:00,scheveningen,Museum Voorlinden,-1
+2018-11-17T17:00:00,centraal,scheveningen,1440
+2018-11-17T17:00:00,maduradam,scheveningen,1020
+2018-11-17T17:00:00,gemeentemuseume,scheveningen,1500
+2018-11-17T17:00:00,kijkduin,scheveningen,3540
+2018-11-17T17:00:00,de uithof,scheveningen,3420
+2018-11-17T17:00:00,haagsemarkt,scheveningen,2520
+2018-11-17T17:00:00,mauritshuis,scheveningen,1560
+2018-11-17T17:00:00,familiepark drievliet,scheveningen,2880
+2018-11-17T17:00:00,huistenbosch,scheveningen,1560
+2018-11-17T17:00:00,Museum Voorlinden,scheveningen,-1
+2018-11-17T17:00:00,scheveningen,centraal,1560
+2018-11-17T17:00:00,scheveningen,maduradam,1200
+2018-11-17T17:00:00,scheveningen,gemeentemuseume,1560
+2018-11-17T17:00:00,scheveningen,kijkduin,3840
+2018-11-17T17:00:00,scheveningen,de uithof,3480
+2018-11-17T17:00:00,scheveningen,haagsemarkt,2700
+2018-11-17T17:00:00,scheveningen,mauritshuis,1560
+2018-11-17T17:00:00,scheveningen,familiepark drievliet,2820
+2018-11-17T17:00:00,scheveningen,huistenbosch,2100
+2018-11-17T17:00:00,scheveningen,Museum Voorlinden,-1
+2018-11-17T17:30:00,centraal,scheveningen,1680
+2018-11-17T17:30:00,maduradam,scheveningen,1260
+2018-11-17T17:30:00,gemeentemuseume,scheveningen,1440
+2018-11-17T17:30:00,kijkduin,scheveningen,3480
+2018-11-17T17:30:00,de uithof,scheveningen,3420
+2018-11-17T17:30:00,haagsemarkt,scheveningen,2640
+2018-11-17T17:30:00,mauritshuis,scheveningen,1500
+2018-11-17T17:30:00,familiepark drievliet,scheveningen,2700
+2018-11-17T17:30:00,huistenbosch,scheveningen,2100
+2018-11-17T17:30:00,Museum Voorlinden,scheveningen,-1
+2018-11-17T17:30:00,scheveningen,centraal,1560
+2018-11-17T17:30:00,scheveningen,maduradam,1200
+2018-11-17T17:30:00,scheveningen,gemeentemuseume,1560
+2018-11-17T17:30:00,scheveningen,kijkduin,3840
+2018-11-17T17:30:00,scheveningen,de uithof,4020
+2018-11-17T17:30:00,scheveningen,haagsemarkt,2700
+2018-11-17T17:30:00,scheveningen,mauritshuis,1560
+2018-11-17T17:30:00,scheveningen,familiepark drievliet,2820
+2018-11-17T17:30:00,scheveningen,huistenbosch,1980
+2018-11-17T17:30:00,scheveningen,Museum Voorlinden,-1
+2018-11-17T18:00:00,centraal,scheveningen,1680
+2018-11-17T18:00:00,maduradam,scheveningen,1260
+2018-11-17T18:00:00,gemeentemuseume,scheveningen,1440
+2018-11-17T18:00:00,kijkduin,scheveningen,3780
+2018-11-17T18:00:00,de uithof,scheveningen,3480
+2018-11-17T18:00:00,haagsemarkt,scheveningen,2640
+2018-11-17T18:00:00,mauritshuis,scheveningen,1500
+2018-11-17T18:00:00,familiepark drievliet,scheveningen,2700
+2018-11-17T18:00:00,huistenbosch,scheveningen,1440

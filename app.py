@@ -3,12 +3,17 @@ from flask_googlemaps import GoogleMaps
 from flask_googlemaps import Map
 from flask_bootstrap import Bootstrap
 from flask import Flask, render_template, request, redirect, url_for, flash, jsonify, session, send_file, Response
+import polyline as pll
+import os
+
+from api import routing, config
+import json
 
 app = Flask(__name__)
 Bootstrap(app)
 
 # you can set key as config
-app.config['GOOGLEMAPS_KEY'] = ""
+app.config['GOOGLEMAPS_KEY'] = "AIzaSyC7Ba8Iu-wTrwTwgc4FZdGFwMmZkjbCUuk"
 
 # Initialize the extension
 GoogleMaps(app)
@@ -130,8 +135,89 @@ sndmap = Map(
 )
 
 
+def draw_map(locA, locB, date):
+    summary, route = routing.query(date, config.locations[locA], config.locations[locB])
+    poly_line = route[0]['polyline']
+    poly_coords = pll.decode(poly_line)
+    stops = route[0]['instructions']
+    destinations = []
+
+    for x in stops:
+        dep = {
+            'icon': 'http://maps.google.com/mapfiles/ms/icons/blue-dot.png',
+            'lat': x['departure']['point']['lat'],
+            'lng': x['departure']['point']['lon'],
+        }
+        if 'stop' in x['departure']:
+            dep['infobox'] = '<b>' + x['departure']['city'] + ' - ' + x['departure']['stop'] + '</b>'
+
+        destinations.append(dep)
+        arr = {
+            'icon': 'http://maps.google.com/mapfiles/ms/icons/blue-dot.png',
+            'lat': x['arrival']['point']['lat'],
+            'lng': x['arrival']['point']['lon']}
+        if 'stop' in x['arrival']:
+            arr['infobox'] = '<b>' + x['arrival']['city'] + ' - ' + x['arrival']['stop'] + '</b>'
+
+        destinations.append(arr)
+
+    destinations.append({
+        'icon': 'http://maps.google.com/mapfiles/ms/icons/red-dot.png',
+        'lat': destinations[0]['lat'],
+        'lng': destinations[0]['lng'],
+        'infobox': '<b>' + config.mapping[locA] + '</b>'
+
+    })
+    destinations.append({
+        'icon': 'http://maps.google.com/mapfiles/ms/icons/red-dot.png',
+        'lat': destinations[-2]['lat'],
+        'lng': destinations[-2]['lng'],
+        'infobox': '<b>' + config.mapping[locB] + '</b>'
+
+    })
+    destinations = [destinations[-1], destinations[-2]]
+    return destinations, poly_coords
+
+
+def multiple_routes(loc_list):
+    lat = config.locations[loc_list[0]['from']][0]
+    lng = config.locations[loc_list[0]['from']][1]
+    destinations = []
+    poly_coords = []
+    for i in range(len(loc_list)):
+        locA = loc_list[i]['from']
+        locB = loc_list[i]['to']
+        date = loc_list[i]['time']
+        d, p = draw_map(locA, locB, date)
+        destinations += d
+        poly_coords += p
+    # destinations = [item for sublist in destinations for item in sublist]
+    # poly_coords = [item for sublist in poly_coords for item in sublist]
+
+    sndmap = Map(
+        identifier="map",
+        lat=lat,
+        lng=lng,
+        markers=destinations,
+        polylines=[poly_coords],
+        zoom=12,
+        style="height:800px;width:800px;margin:0;",
+
+    )
+    return sndmap
+
+
+@app.route("/show_map")
+def venues():
+    startingtime = '2018-11-17T10:20:00'
+    places_to_visit = ['mauritshuis', 'kijkduin', 'maduradam']
+    time, loc_list, _ = routing.get_best_solution(startingtime, places_to_visit)
+
+    sndmap = multiple_routes(loc_list)
+    return render_template('show_map.html', sndmap=sndmap)
+
 @app.route("/")
-def mapview():
+def index():
     # mymap = Map(
     #     identifier="view-side",
     #     lat=37.4419,
@@ -141,11 +227,14 @@ def mapview():
     return render_template('venues.html', destinations=destinations)
 
 
-@app.route('/venues', methods=['GET', 'POST'])
-def all():
-    print(request.form['venues'])
-    return render_template('show_map.html', sndmap=sndmap)
-
+# @app.route('/venues', methods=['GET', 'POST'])
+# def all():
+#
+#     venues = json.loads(request.form['venues'])
+#     names = [destinations[i] for i in venues]
+#
+#     return render_template('show_map.html', sndmap=sndmap)
 
 if __name__ == "__main__":
+    os.environ['FLASK_DEBUG'] = '1'
     app.run(debug=True)

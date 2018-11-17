@@ -94,7 +94,7 @@
                         </a>
                         <a @click="add_to_progress" class="btn col-3 btn-info" href="#carouselExampleControls"
                            role="button" data-slide="next">
-                            <span>SUPPER!</span>
+                            <span>SUPER!</span>
                         </a>
                         <a @click="add_to_progress" class="btn col-3 btn-success" href="#carouselExampleControls"
                            role="button" data-slide="next">
@@ -108,8 +108,8 @@
 
     </div>
 
-    <form action="/venues" method="post">
-        <button id="submit">finish!</button>
+    <form action="/show_map" method="post">
+        <button id="submit" class="hidden"></button>
     </form>
 
 </main><!-- /.container -->
@@ -176,6 +176,11 @@
         let steps = Math.round(100 / this.items.length);
         //console.log("steps:",steps);
         this.progress_likes = this.progress_likes + steps;
+        if (this.progress_likes >= 100) {
+            console.log('yoel i am stressed out');
+           $('form').submit();
+        }
+
       }
     }
 

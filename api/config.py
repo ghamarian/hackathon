@@ -1,3 +1,19 @@
+import pandas as pd
+
+locations = {
+    "centraal": [52.080395, 4.325370],
+    "maduradam": [52.0995, 4.2969],
+    "gemeentemuseume": [52.0899, 4.2807],
+    "kijkduin": [52.0614, 4.2218],
+    "de uithof": [52.0382, 4.2416],
+    "haagsemarkt": [52.0646, 4.2991],
+    "mauritshuis": [52.0804, 4.3143],
+    "familiepark drievliet": [52.0551, 4.3499],
+    "huistenbosch": [52.093256, 4.343400],
+    "Museum Voorlinden": [52.1185, 4.3459],
+    "scheveningen": [52.1145, 4.2790]
+}
+
 URL = "https://api-acc.anwb.nl/v1/routing"
 APIKEY = "bjUtF51yGCVatPljvWNcYpv9MQE7efLj"
 LANG = 'en-GB'
@@ -23,3 +39,35 @@ OPTIONS = {
     "avoid": {"tollRoads", "motorways", "ferries", "unpavedRoads", "allreadyUsedRoads", "obstructions"},
     "polyline": {"true", "false"}
 }
+
+all_site_ls = [
+    'Den Haag Centraal',
+    'Maduroam',
+    'Gemeentemuseum Den Haag',
+    'Kijkduin',
+    'De Uithof',
+    'Haagse Markt',
+    'Mauritshuis',
+    'Familiepark Drievliet',
+    'Huis Ten Bosch',
+    'Museum Voorlinden',
+    'Scheveningen'
+]
+
+locations_map = [
+    "centraal",
+    "maduradam",
+    "gemeentemuseume",
+    "kijkduin",
+    "de uithof",
+    "haagsemarkt",
+    "mauritshuis",
+    "familiepark drievliet",
+    "huistenbosch",
+    "Museum Voorlinden",
+    "scheveningen"
+]
+
+mapping = {locations_map[i]: all_site_ls[i] for i in range(len(locations_map))}
+
+print(mapping)
