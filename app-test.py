@@ -70,7 +70,7 @@ def mapview():
         ],
         polylines=polylines
     )
-    return render_template('map.html', mymap=mymap, sndmap=sndmap)
+    return render_template('venues.html', mymap=mymap, sndmap=sndmap)
 
 if __name__ == "__main__":
     app.run(debug=True)

@@ -25,6 +25,7 @@ $(document).ready(function () {
         // console.log(e.direction);     // The direction in which the carousel is sliding (either "left" or "right").
         // console.log(e.relatedTarget); // The DOM element that is being slid into place as the active item.
         console.log(e.from);          // The index of the current item.
+        venues.push(e.from);
         // console.log(e.to);            // The index of the next item.
     });
 

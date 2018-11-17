@@ -8,7 +8,7 @@ app = Flask(__name__)
 Bootstrap(app)
 
 # you can set key as config
-app.config['GOOGLEMAPS_KEY'] = "AIzaSyC7Ba8Iu-wTrwTwgc4FZdGFwMmZkjbCUuk"
+app.config['GOOGLEMAPS_KEY'] = ""
 
 # Initialize the extension
 GoogleMaps(app)
@@ -55,24 +55,30 @@ destinations = [{'name': 'scheveningen',
                  'lat': 52.0995,
                  'lng': 4.2969,
                  'infobox': '<b>$maduradam</b>',
-                 'img':
+                 'img': 'https://tickets.holland.com/wp-content/uploads/2016/09/madurodam.jpg'
 
                  },
                 {'name': 'gemeentemuseume',
                  'icon': 'http://maps.google.com/mapfiles/ms/icons/blue-dot.png',
                  'lat': 52.0899,
                  'lng': 4.2807,
-                 'infobox': '<b>$gemeentemuseume</b>'},
+                 'infobox': '<b>$gemeentemuseume</b>',
+                 'img': 'https://www.gemeentemuseum.nl/sites/default/files/styles/full_width_768x2/public/images/Museum/Ons%20verhaal/Gebouw/Foto%27s%20gebouw/centrale%20hal%20DEF.jpg'
+                 },
                 {'name': 'kijkduin',
                  'icon': 'http://maps.google.com/mapfiles/ms/icons/blue-dot.png',
                  'lat': 52.0614,
                  'lng': 4.2218,
-                 'infobox': '<b>$kijkduin</b>'},
+                 'infobox': '<b>$kijkduin</b>',
+                 'img': 'https://upload.wikimedia.org/wikipedia/commons/b/b6/2008-Kijkduin-Strandpromenade-1.jpg',
+                 },
                 {'name': 'de uithof',
                  'icon': 'http://maps.google.com/mapfiles/ms/icons/blue-dot.png',
                  'lat': 52.0382,
                  'lng': 4.2416,
-                 'infobox': '<b>$de uithof</b>'},
+                 'infobox': '<b>$de uithof</b>',
+                 'img': 'https://cdn.wintersport.nl/destinations/3/42749.jpg?w=1280'
+                 },
                 {'name': 'haagsemarkt',
                  'icon': 'http://maps.google.com/mapfiles/ms/icons/blue-dot.png',
                  'lat': 52.0646,
@@ -82,22 +88,26 @@ destinations = [{'name': 'scheveningen',
                  'icon': 'http://maps.google.com/mapfiles/ms/icons/blue-dot.png',
                  'lat': 52.0804,
                  'lng': 4.3143,
-                 'infobox': '<b>$mauritshuis</b>'},
+                 'infobox': '<b>$mauritshuis</b>',
+                 'img': 'https://www.holland.com/upload_mm/f/b/5/64127_fullimage_hofvijver_ivo_hoekstra.jpg'},
                 {'name': 'familiepark drievliet',
                  'icon': 'http://maps.google.com/mapfiles/ms/icons/blue-dot.png',
                  'lat': 52.0551,
                  'lng': 4.3499,
-                 'infobox': '<b>$familiepark drievliet</b>'},
+                 'infobox': '<b>$familiepark drievliet</b>',
+                 'img': 'https://findapinball.com/media/foursquare/familiepark-drievliet_51f272a8498e44d4ebecb821.jpg'},
                 {'name': 'huistenbosch',
                  'icon': 'http://maps.google.com/mapfiles/ms/icons/blue-dot.png',
                  'lat': 52.0930,
                  'lng': 4.3438,
-                 'infobox': '<b>$huistenbosch</b>'},
+                 'infobox': '<b>$huistenbosch</b>',
+                 'img': 'https://www.tracesofwar.com/upload/2589180707235002.jpg'},
                 {'name': 'Museum Voolinden',
                  'icon': 'http://maps.google.com/mapfiles/ms/icons/blue-dot.png',
                  'lat': 52.1185,
                  'lng': 4.3459,
-                 'infobox': '<b>$Museum Voorlinden</b>'}]
+                 'infobox': '<b>$Museum Voorlinden</b>',
+                 'img': 'http://www.kraaijvanger.nl/image/1/0/1080/0/uploads/project-afbeeldingen/3065_02_n195_medium-57c84ff9a0c71.jpg'}]
 
 polyline = {
     'stroke_color': '#0AB0DE',
